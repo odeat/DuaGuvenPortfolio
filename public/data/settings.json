@@ -1,0 +1,72 @@
+{
+    "developerSettings": {
+        "debugMode": false,
+        "fakeEmailRequests": false,
+        "stayOnThePreloaderScreen": false,
+        "version": "2.0.0"
+    },
+
+    "preloaderSettings": {
+        "enabled": true,
+        "title": "React <strong>Dua's portfolio</strong>",
+        "subtitle": "by Dua Güven",
+        "logoOffset": {
+            "right": 14,
+            "top": 2,
+            "bottom": 0
+        }
+    },
+
+    "templateSettings": {
+        "animatedBackground": true,
+        "animatedCursorEnabled": true,
+        "defaultLanguageId": "en",
+        "defaultThemeId": "dark",
+        "fullscreenEnabled": true
+    },
+
+    "supportedLanguages": [
+        {
+            "name": "English",
+            "id": "en",
+            "flagUrl": "images/flags/en-us.png"
+        },
+        {
+            "name": "Nederlands",
+            "id": "nl",
+            "flagUrl": "images/flags/nl.png"
+        },
+        
+        {
+            "name": "Turkish",
+            "id": "tr",
+            "flagUrl": "images/flags/tr.png"
+        }
+    ],
+
+    "supportedThemes": [
+        {
+            "id": "dark",
+            "icon": "fa-solid fa-moon",
+            "dark": true,
+            "locales": {
+                "en": {"name": "Dark Mode"},
+                "nl": {"name": "Donkere Modus"},
+                "tr": {"name": "karanlık mod"}
+            }
+        },
+        {
+            "id": "light",
+            "icon": "fa-solid fa-sun",
+            "dark": false,
+            "locales": {
+                "en": {"name": "Light Mode"},
+                "es": {"name": "Modo Claro"},
+                "fr": {"name": "Mode Clair"},
+                "ko": {"name": "라이트 모드"}
+            }
+        }
+    ],
+
+    "imagesToCache": []
+}
