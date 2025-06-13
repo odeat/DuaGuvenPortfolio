@@ -1,5 +1,5 @@
 {
-    "name": "Mark Choi",
+    "name": "Dua Güven",
 
     "profilePictureUrl": "images/pictures/profile-picture.jpg",
     "resumePdfUrl": "",
@@ -10,43 +10,35 @@
 
     "locales": {
         "en": {
-            "localized_name": "Mark Choi",
-            "localized_name_stylized": " [[Mark {{Choi}}]]",
-            "status_message_available_for_freelance": "Available for freelance!",
+            "localized_name": "Dua Güven",
+            "localized_name_stylized": " [[Dua {{Güven}}]]",
+            "status_message_available_for_freelance": "Looking for an internship! :)",
             "roles": [
-                "Backend Developer",
+                "Software Engineer",
                 "Frontend Developer",
-                "DevOps Engineer",
-                "UX Designer"
+                "Backend Developer",
+                "UX Designer",
+                "UI Designer"
             ]
         },
-        "es": {
-            "status_message_available_for_freelance": "¡Disponible para freelance!",
+        "tr": {
+            "status_message_available_for_freelance": "Staj arıyorum!",
             "roles": [
-                "Desarrollador Backend",
-                "Desarrollador Frontend",
-                "Ingeniero DevOps",
-                "Diseñador UX"
+                "Yazılım Mühendisi",
+                "Ön Uç Geliştirici",
+                "Arka Uç Geliştiricisi",
+                "UX Tasarımcısı",
+                "UI Tasarımcısı"
             ]
         },
-        "fr": {
-            "status_message_available_for_freelance": "Disponible pour freelance !",
+        "nl": {
+            "status_message_available_for_freelance": "Op zoek naar een stageplek!",
             "roles": [
-                "Développeur Backend",
-                "Développeur Frontend",
-                "Ingénieur DevOps",
-                "Designer UX"
-            ]
-        },
-        "ko": {
-            "localized_name": "최민석",
-            "localized_name_stylized": "{{최}}민석",
-            "status_message_available_for_freelance": "프리랜스 가능합니다!",
-            "roles": [
-                "백엔드 개발자",
-                "프론트엔드 개발자",
-                "데브옵스 엔지니어",
-                "UX 디자이너"
+                "Software-ingenieur",
+                "Frontend-ontwikkelaar",
+                "Backend-ontwikkelaar",
+                "UX-ontwerper",
+                "UI-ontwerper"
             ]
         }
     }

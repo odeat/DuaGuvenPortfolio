@@ -5,25 +5,19 @@
                 "title_short": "Welcome!",
                 "title_short_nav": "About me",
                 "title_long_prefix": "Hello...",
-                "title_long": "I'm {{Mark Choi!}}"
+                "title_long": "I'm {{Dua Güven!}}"
             },
-            "es": {
-                "title_short": "¡Saludos!",
-                "title_short_nav": "Sobre mí",
-                "title_long_prefix": "Hola...",
-                "title_long": "Soy {{Mark Choi!}}"
+            "tr": {
+                "title_short": "Hoş geldin!",
+                "title_short_nav": "Benim hakkımda",
+                "title_long_prefix": "Merhaba...",
+                "title_long": "Ben {{Dua Güven!}}"
             },
-            "fr": {
-                "title_short": "Salut !",
-                "title_short_nav": "À propos",
-                "title_long_prefix": "Salut...",
-                "title_long": "Je suis {{Mark Choi !}}"
-            },
-            "ko": {
-                "title_short": "환영합니다!",
-                "title_short_nav": "소개",
-                "title_long_prefix": "안녕하세요...",
-                "title_long": "저는 {{최민석}}입니다!"
+            "nl": {
+                "title_short": "Welkom!",
+                "title_short_nav": "Over mij",
+                "title_long_prefix": "Hallo",
+                "title_long": "Ik ben {{Dua Güven!}}"
             }
         }
     },
@@ -41,20 +35,20 @@
             "items": [
                 {
                     "id": 1,
-                    "label": "Cupertino – CA",
+                    "label": "Amsterdam – NL",
                     "link": {"href": "", "tooltipString": ""},
                     "faIcon": "fa-regular fa-address-book"
                 },
                 {
                     "id": 2,
-                    "label": "mark.choi@dev.com",
-                    "link": {"href": "mailto:mark.choi@dev.com", "tooltipString": "email_me"},
+                    "label": "dua2003@live.nl",
+                    "link": {"href": "dua2003@live.nl", "tooltipString": "email_me"},
                     "faIcon": "fa-regular fa-envelope"
                 },
                 {
                     "id": 3,
-                    "label": "@ryanbalieiro",
-                    "link": {"href": "https://github.com/ryanbalieiro", "tooltipString": "see_on_github"},
+                    "label": "@odeat",
+                    "link": {"href": "https://github.com/odeat", "tooltipString": "see_on_github"},
                     "faIcon": "fa-brands fa-github"
                 }
             ]
