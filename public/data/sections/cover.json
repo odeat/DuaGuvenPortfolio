@@ -58,9 +58,9 @@
             "id": 2,
             "component": "ArticleText",
             "locales": {
-                "en": {"title": "{{A little bit}} about me..."},
-                "tr": {"title": "{{Biraz}} benim hakkımda..."},
-                "nl": {"title": "{{Een beetje}} over mij..."}
+                "en": {"title": "A little bit {{about me...}}"},
+                "tr": {"title": "Biraz {{benim hakkımda...}}"},
+                "nl": {"title": "Een beetje {{over mij...}}"}
             },
             "settings": {
                 "order_items_by": "id",
@@ -77,7 +77,7 @@
                             "text": "<p>I’m a {{Software Engineer}} student at The Hague University of Applied Sciences with [[two years]] of coding experience in both frontend and backend development.</p><p>During my studies, I’ve worked with languages such as Java, C#, basic Python, SQL, JavaScript, HTML, and CSS, building a solid foundation in modern software development.</p><p>I look forward to collaborating [[with you!]]</p>"
                         },
                         "tr": {
-                            "text": "<p>Soy un desarrollador de {{PHP}} con [[más de una década]] de experiencia, especializado en desarrollo backend y con algo de experiencia en frontend. También tengo experiencia práctica en entornos de producción con C++, C#, Go y Python.</p><p>Este variado historial me permite adaptarme a una amplia gama de necesidades de proyectos, ya sea construyendo APIs escalables, optimizando el rendimiento de sistemas o contribuyendo a soluciones full-stack.</p><p>Sizinle iş birliği yapmayı dört [[gözle bekliyorum!]]</p>"
+                            "text": "<p>Lahey Uygulamalı Bilimler Üniversitesi’nde {{Yazılım Mühendisliği}} öğrencisiyim ve hem frontend hem de backend geliştirme konusunda [[iki yıllık]] deneyime sahibim</p><p>Eğitimim sırasında Java, C#, temel seviyede Python, SQL, JavaScript, HTML ve CSS gibi programlama dilleriyle çalıştım ve modern yazılım geliştirme konusunda sağlam bir temel edindim.</p><p>[[Sizinle]] iş birliği yapmayı dört gözle bekliyorum!</p>"
                         },
                         "nl": {
                             "text": "<p>Ik ben een {{Software Engineering}} student aan De Haagse Hogeschool met [[twee jaar]] ervaring in zowel frontend- als backendontwikkeling.</p><p>Tijdens mijn opleiding heb ik gewerkt met programmeertalen zoals Java, C#, basiskennis van Python, SQL, JavaScript, HTML en CSS, en heb ik een sterke basis gelegd in moderne softwareontwikkeling.</p><p>Ik kijk ernaar uit om samen te werken [[met u!]]</p>"
@@ -96,9 +96,8 @@
             },
             "locales": {
                 "en": {"title": "Personal {{interests}}"},
-                "es": {"title": "Intereses {{personales}}"},
-                "fr": {"title": "Intérêts {{personnels}} "},
-                "ko": {"title": "개인 {{관심사}}"}
+                "tr": {"title": "Kişisel {{ilgi alanları}}"},
+                "nl": {"title": "Persoonlijke  {{interesses}} "}
             },
             "items": [
                 {
@@ -112,17 +111,13 @@
                             "title": "{{AI}} video editing",
                             "text": "Learning to use AI tools to enhance my videos."
                         },
-                        "es": {
+                        "tr": {
                             "title": "Edición de video con {{AI}}",
                             "text": "Aprendiendo a usar herramientas de IA para mejorar mis videos."
                         },
-                        "fr": {
+                        "nl": {
                             "title": "Édition vidéo avec {{IA}}",
                             "text": "Apprendre à utiliser des outils d'IA pour améliorer mes vidéos."
-                        },
-                        "ko": {
-                            "title": "{{AI}} 비디오 편집",
-                            "text": "AI 도구를 사용하여 내 영상을 향상시키는 방법 배우기."
                         }
                     }
                 },
@@ -137,17 +132,13 @@
                             "title": "{{Arts}} & Illustration",
                             "text": "Practicing digital art and exploring new styles."
                         },
-                        "es": {
+                        "tr": {
                             "title": "{{Arte}} y Ilustración",
                             "text": "Practicando arte digital y explorando nuevos estilos."
                         },
-                        "fr": {
+                        "nl": {
                             "title": "{{Arts}} & Illustration",
                             "text": "Pratiquer l'art numérique et explorer de nouveaux styles."
-                        },
-                        "ko": {
-                            "title": "{{예술}} 및 일러스트레이션",
-                            "text": "디지털 아트를 연습하고 새로운 스타일을 탐험하기."
                         }
                     }
                 },
@@ -162,17 +153,13 @@
                             "title": "{{Investing}} & Finance",
                             "text": "Learning the basics of stocks and personal finance."
                         },
-                        "es": {
+                        "tr": {
                             "title": "{{Inversión}} y Finanzas",
                             "text": "Aprendiendo los conceptos básicos de acciones y finanzas personales."
                         },
-                        "fr": {
+                        "nl": {
                             "title": "{{Investissement}} & Finance",
                             "text": "Apprendre les bases des actions et des finances personnelles."
-                        },
-                        "ko": {
-                            "title": "{{투자}} 및 재정 관리",
-                            "text": "주식과 개인 재정의 기초 배우기."
                         }
                     }
                 },
@@ -187,17 +174,13 @@
                             "title": "{{UX}} design",
                             "text": "Studying user experience principles."
                         },
-                        "es": {
+                        "tr": {
                             "title": "Diseño {{UX}}",
                             "text": "Estudiando los principios de la experiencia del usuario."
                         },
-                        "fr": {
+                        "nl": {
                             "title": "Conception {{UX}}",
                             "text": "Étudier les principes de l'expérience utilisateur."
-                        },
-                        "ko": {
-                            "title": "{{UX}} 디자인",
-                            "text": "사용자 경험 원칙을 공부하기."
                         }
                     }
                 },
