@@ -22,7 +22,7 @@
             ]
         },
         "tr": {
-            "status_message_available_for_freelance": "Staj arıyorum!",
+            "status_message_available_for_freelance": "Staj arıyorum! :)",
             "roles": [
                 "Yazılım Mühendisi",
                 "Ön Uç Geliştirici",
@@ -32,7 +32,7 @@
             ]
         },
         "nl": {
-            "status_message_available_for_freelance": "Op zoek naar een stageplek!",
+            "status_message_available_for_freelance": "Op zoek naar een stageplek! :)",
             "roles": [
                 "Software-ingenieur",
                 "Frontend-ontwikkelaar",

@@ -80,7 +80,7 @@
                             "text": "<p>Lahey Uygulamalı Bilimler Üniversitesi’nde {{Yazılım Mühendisliği}} öğrencisiyim ve hem frontend hem de backend geliştirme konusunda [[iki yıllık]] deneyime sahibim</p><p>Eğitimim sırasında Java, C#, temel seviyede Python, SQL, JavaScript, HTML ve CSS gibi programlama dilleriyle çalıştım ve modern yazılım geliştirme konusunda sağlam bir temel edindim.</p><p>[[Sizinle]] iş birliği yapmayı dört gözle bekliyorum!</p>"
                         },
                         "nl": {
-                            "text": "<p>Ik ben een {{Software Engineering}} student aan De Haagse Hogeschool met [[twee jaar]] ervaring in zowel frontend- als backendontwikkeling.</p><p>Tijdens mijn opleiding heb ik gewerkt met programmeertalen zoals Java, C#, basiskennis van Python, SQL, JavaScript, HTML en CSS, en heb ik een sterke basis gelegd in moderne softwareontwikkeling.</p><p>Ik kijk ernaar uit om samen te werken [[met u!]]</p>"
+                            "text": "<p>Ik ben een {{Software Engineering}} student aan De Haagse Hogeschool met [[twee jaar]] ervaring in zowel frontend- als backendontwikkeling.</p><p>Tijdens mijn opleiding heb ik gewerkt met programmeertalen zoals Java, C#, basiskennis van Python, SQL, JavaScript, HTML en CSS, en heb ik een sterke basis gelegd in moderne software ontwikkeling.</p><p>Ik kijk ernaar uit om samen te werken [[met u!]]</p>"
                         }
                     }
                 }
@@ -201,7 +201,7 @@
                             "text": "Rahatlamak, yeni dünyalar keşfetmek ve hayal gücümü beslemek için harika bir yol."
                         },
                         "nl": {
-                            "title": "{{Boeken & Manga}} & Lezen",
+                            "title": "{{Boeken & Manga}} Lezen",
                             "text": "De ideale manier om te ontspannen, nieuwe werelden te ontdekken en mijn verbeelding te prikkelen."
                         }
                     }

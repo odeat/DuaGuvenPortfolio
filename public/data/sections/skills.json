@@ -7,23 +7,17 @@
                 "title_long_prefix": "Explore",
                 "title_long": "My {{Skill Set}}"
             },
-            "es": {
-                "title_short": "Habilidades",
-                "title_short_nav": "Habilidades",
-                "title_long_prefix": "Explora",
-                "title_long": "Mis {{Habilidades}}"
+            "tr": {
+                "title_short": "Beceriler",
+                "title_short_nav": "Beceriler",
+                "title_long_prefix": "Keşfet",
+                "title_long": "Yetenek {{setim}}"
             },
-            "fr": {
-                "title_short": "Capacités",
-                "title_short_nav": "Capacités",
-                "title_long_prefix": "Explorez",
-                "title_long": "Mes {{Compétences}}"
-            },
-            "ko": {
-                "title_short": "스킬",
-                "title_short_nav": "스킬",
-                "title_long_prefix": "이것은 내",
-                "title_long": "{{스킬}}입니다"
+            "nl": {
+                "title_short": "Vaardigheden",
+                "title_short_nav": "Vaardigheden",
+                "title_long_prefix": "Verken",
+                "title_long": "Mijn {{Vaardigheden}}"
             }
         }
     },
@@ -41,7 +35,7 @@
                 {
                     "id": 1,
                     "img": "",
-                    "faIcon": "fa-solid fa-table-columns",
+                    "faIcon": "fa-solid fa-window-maximize",
                     "faIconColors": {"bg": "", "fill": ""},
                     "date": {"year": null, "month": null},
                     "link": {"href": "", "tooltipString": ""},
@@ -50,17 +44,13 @@
                             "title": "{{Website}} design",
                             "text": "I can bring your best ideas into life and make them a reality!"
                         },
-                        "es": {
-                            "title": "{{Diseño}} de websites",
-                            "text": "¡Puedo hacer realidad tus mejores ideas y hacerlas reales!"
+                        "tr": {
+                            "title": "{{Web sitesi}} tasarımı",
+                            "text": "En iyi fikirlerinizi hayata geçirebilir ve gerçeğe dönüştürebilirim!"
                         },
-                        "fr": {
-                            "title": "{{Conception}} de websites",
-                            "text": "Je peux donner vie à vos meilleures idées et les rendre réelles !"
-                        },
-                        "ko": {
-                            "title": "{{웹사이트}} 디자인",
-                            "text": "당신의 최고의 아이디어를 실현하고 현실로 만들 수 있습니다!"
+                        "nl": {
+                            "title": "{{Website}} ontwerp",
+                            "text": "Ik kan uw beste ideeën tot leven brengen en omzetten in werkelijkheid!"
                         }
                     }
                 },
@@ -74,19 +64,15 @@
                     "locales": {
                         "en": {
                             "title": "{{Database}} management",
-                            "text": "I can handle your data effectively and efficiently!"
+                            "text": "I can manage your data effectively and efficiently!"
                         },
-                        "es": {
-                            "title": "Gestión de {{bases de datos}}",
-                            "text": "¡Puedo manejar sus datos de manera efectiva y eficiente!"
+                        "tr": {
+                            "title": "{{Veritabanı}} yönetimi",
+                            "text": "Verilerinizi etkili ve verimli bir şekilde yönetebilirim!"
                         },
-                        "fr": {
-                            "title": "Gestion de {{bases de données}}",
-                            "text": "Je peux gérer vos données de manière efficace et efficiente !"
-                        },
-                        "ko": {
-                            "title": "{{데이터베이스}} 관리",
-                            "text": "데이터를 효과적이고 효율적으로 처리할 수 있습니다. 최고의 관행을 사용하여 데이터베이스를 관리합니다!"
+                        "nl": {
+                            "title": "{{Database}} beheer",
+                            "text": "Ik kan jouw data effectief en efficiënt beheren!"
                         }
                     }
                 },
@@ -102,43 +88,35 @@
                             "title": "{{App}} creation",
                             "text": "I can make creative and innovative apps!"
                         },
-                        "es": {
-                            "title": "Creación de {{aplicaciones}}",
-                            "text": "¡Puedo hacer aplicaciones creativas e innovadoras!"
+                        "tr": {
+                            "title": "{{Uygulama}} geliştirme",
+                            "text": "Yaratıcı ve yenilikçi uygulamalar oluşturabilirim!"
                         },
-                        "fr": {
-                            "title": "Création {{d'applications}}",
-                            "text": "Je peux créer des applications créatives et innovantes !"
-                        },
-                        "ko": {
-                            "title": "{{앱}} 제작",
-                            "text": "창의적이고 혁신적인 앱을 만들 수 있습니다!"
+                        "nl": {
+                            "title": "{{App}} ontwikkeling",
+                            "text": "Ik kan creatieve en innovatieve apps maken!"
                         }
                     }
                 },
                 {
                     "id": 4,
                     "img": "",
-                    "faIcon": "fa-solid fa-window-restore",
+                    "faIcon": "fa-solid fa-table",
                     "faIconColors": {"bg": "", "fill": ""},
                     "date": {"year": null, "month": null},
                     "link": {"href": "", "tooltipString": ""},
                     "locales": {
                         "en": {
-                            "title": "{{REST}} APIs",
-                            "text": "I can build API services!"
+                            "title": "{{Data}} Engineering",
+                            "text": "I can build and manage data pipelines to make data usable for analysis and AI.!"
                         },
-                        "es": {
-                            "title": "APIs {{REST}}",
-                            "text": "¡Puedo construir servicios API!"
+                        "tr": {
+                            "title": "{{Veri}} Mühendisliği",
+                            "text": "Verileri analiz ve yapay zeka için kullanılabilir hale getirmek amacıyla veri akışları oluşturup yönetebilirim!"
                         },
-                        "fr": {
-                            "title": "APIs {{REST}}",
-                            "text": "Je peux créer des services API !"
-                        },
-                        "ko": {
-                            "title": "{{REST}} API",
-                            "text": "API 서비스를 구축할 수 있습니다!"
+                        "nl": {
+                            "title": "{{Data}} Engineering",
+                            "text": "Ik kan datastromen bouwen en beheren om data bruikbaar te maken voor analyse en AI!"
                         }
                     }
                 },
@@ -154,17 +132,13 @@
                             "title": "Information {{Security}}",
                             "text": "Security is my middle name!"
                         },
-                        "es": {
-                            "title": "{{Seguridad}} Informática",
-                            "text": "¡La seguridad es mi segundo nombre!"
+                        "tr": {
+                            "title": "Bilgi {{Güvenliği}}",
+                            "text": "Güvenlik benim ikinci adım!"
                         },
-                        "fr": {
-                            "title": "{{Sécurité}} Informatique",
-                            "text": "La sécurité est mon deuxième prénom !"
-                        },
-                        "ko": {
-                            "title": "{{정보}} 보안",
-                            "text": "보안은 내 중간 이름입니다!"
+                        "nl": {
+                            "title": "Informatie {{Beveiliging}}",
+                            "text": "Beveiliging is mijn tweede naam!"
                         }
                     }
                 }
@@ -177,8 +151,7 @@
             "locales": {
                 "en": {"title": "Backend Stack"},
                 "es": {"title": "Stack de Backend"},
-                "fr": {"title": "Stack Backend"},
-                "zh": {"title": "后端技术栈"}
+                "fr": {"title": "Stack Backend"}
             },
             "settings": {
                 "max_items_per_row": 3,

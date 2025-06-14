@@ -119,7 +119,7 @@
                             "province": "Den Haag",
                             "country": "NL",
                             "institution": "De Haagse Hogeschool",
-                            "text": "Momenteel volg ik een HBO-opleiding Software Engineering met een sterke focus op zowel softwareontwikkeling als toegepaste datatechnologieën. Tijdens de opleiding heb ik via projecten en praktijkopdrachten hands-on ervaring opgedaan met:",
+                            "text": "Momenteel volg ik een HBO-opleiding Software Engineering met een sterke focus op zowel software ontwikkeling als toegepaste datatechnologieën. Tijdens de opleiding heb ik via projecten en praktijkopdrachten hands-on ervaring opgedaan met:",
                             "list": [
                                 "Java, C#, JavaScript, HTML, CSS, SQL, LINQ en basiskennis van Python",
                                 "Databaseontwerp, normalisatie en data-analyse",
@@ -127,7 +127,7 @@
                                 "Machine Learning en Neurale Netwerken"
                             ],
                             "tags": [
-                                "Softwareontwikkeling",
+                                "Software ontwikkeling",
                                 "Data-engineering",
                                 "Machine learning"
                             ]
@@ -145,7 +145,7 @@
                         "en": {
                             "title": "{{Minor}} in Visual Interface Design",
                             "province": "Amsterdam",
-                            "country": "UNLS",
+                            "country": "NL",
                             "institution": "Amsterdam University of Applied Sciences",
                             "text": "During this one-semester minor, I focused on designing accessible and visually engaging user interfaces. I gained hands-on experience with:",
                             "list": [
@@ -160,7 +160,7 @@
                         },
                         "tr": {
                             "title": "{{Yan Dal}} Görsel Arayüz Tasarımı",
-                            "province": "Hollanda",
+                            "province": "Amsterdam",
                             "country": "NL",
                             "institution": "Amsterdam Uygulamalı Bilimler Üniversitesi",
                             "text": "Bu bir dönemlik yan dal programında, erişilebilir ve görsel olarak etkileyici kullanıcı arayüzleri tasarlamaya odaklandım. Uygulamalı olarak deneyim kazandım:",
