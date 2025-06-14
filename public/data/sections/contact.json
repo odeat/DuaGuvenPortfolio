@@ -7,23 +7,17 @@
                 "title_long_prefix": "Don't hesitate to",
                 "title_long": "{{Contact}} Me"
             },
-            "es": {
-                "title_short": "Contacto",
-                "title_short_nav": "Contacto",
+            "tr": {
+                "title_short": "İletişim",
+                "title_short_nav": "İletişim",
                 "title_long_prefix": "No dudes en",
-                "title_long": "{{Contácta}}me"
+                "title_long": "Benimle {{iletişime}} geçin"
             },
-            "fr": {
+            "nl": {
                 "title_short": "Contact",
                 "title_short_nav": "Contact",
                 "title_long_prefix": "N'hésitez pas à",
                 "title_long": "Me {{Contacter}}"
-            },
-            "ko": {
-                "title_short": "연락처",
-                "title_short_nav": "연락처",
-                "title_long_prefix": "주저하지 말고",
-                "title_long": "{{연락}} 주세요"
             }
         }
     },

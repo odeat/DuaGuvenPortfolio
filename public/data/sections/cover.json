@@ -102,22 +102,22 @@
             "items": [
                 {
                     "id": 1,
-                    "faIcon": "fa-solid fa-video",
+                    "faIcon": "fa-solid fa-code",
                     "faIconColors": {"bg": "", "fill": ""},
                     "label": null,
                     "link": {"href": null, "tooltipString": null},
                     "locales": {
                         "en": {
-                            "title": "{{AI}} video editing",
-                            "text": "Learning to use AI tools to enhance my videos."
+                            "title": "{{Programming}} & Development",
+                            "text": "It’s where I channel my inspiration into building creative and functional things."
                         },
                         "tr": {
-                            "title": "Edición de video con {{AI}}",
-                            "text": "Aprendiendo a usar herramientas de IA para mejorar mis videos."
+                            "title": "{{Programlama}} & Geliştirme",
+                            "text": "İlhamımı yaratıcı ve işlevsel şeyler üretmeye yönlendirdiğim yer burası."
                         },
                         "nl": {
-                            "title": "Édition vidéo avec {{IA}}",
-                            "text": "Apprendre à utiliser des outils d'IA pour améliorer mes vidéos."
+                            "title": "{{Programmeren}} & Ontwikkeling",
+                            "text": "Hier kan ik al mijn inspiratie kwijt door iets creatiefs en functioneels te maken."
                         }
                     }
                 },
@@ -133,33 +133,33 @@
                             "text": "Practicing digital art and exploring new styles."
                         },
                         "tr": {
-                            "title": "{{Arte}} y Ilustración",
-                            "text": "Practicando arte digital y explorando nuevos estilos."
+                            "title": "{{Sanat }} & İllüstrasyon",
+                            "text": "Dijital sanat pratiği yapıyor ve yeni stiller keşfetmeyi seviyorum."
                         },
                         "nl": {
-                            "title": "{{Arts}} & Illustration",
-                            "text": "Pratiquer l'art numérique et explorer de nouveaux styles."
+                            "title": "{{Kunst}} & Illustratie",
+                            "text": "Ik oefen met digitale kunst en ontdek graag nieuwe stijlen."
                         }
                     }
                 },
                 {
                     "id": 3,
-                    "faIcon": "fa-solid fa-chart-line",
+                    "faIcon": "fa-solid fa-gamepad",
                     "faIconColors": {"bg": "", "fill": ""},
                     "label": null,
                     "link": {"href": null, "tooltipString": null},
                     "locales": {
                         "en": {
-                            "title": "{{Investing}} & Finance",
-                            "text": "Learning the basics of stocks and personal finance."
+                            "title": "{{Video}}games",
+                            "text": "I love getting lost in game worlds where creativity, strategy, and fun come together."
                         },
                         "tr": {
-                            "title": "{{Inversión}} y Finanzas",
-                            "text": "Aprendiendo los conceptos básicos de acciones y finanzas personales."
+                            "title": "{{Video}} oyunları",
+                            "text": "Oyun dünyalarına dalmayı seviyorum; yaratıcılık, strateji ve eğlence burada bir araya geliyor."
                         },
                         "nl": {
-                            "title": "{{Investissement}} & Finance",
-                            "text": "Apprendre les bases des actions et des finances personnelles."
+                            "title": "{{Video}}games",
+                            "text": "Ik hou ervan om mezelf te verliezen in gamewerelden waar creativiteit, strategie en plezier samenkomen."
                         }
                     }
                 },
@@ -171,67 +171,59 @@
                     "link": {"href": null, "tooltipString": null},
                     "locales": {
                         "en": {
-                            "title": "{{UX}} design",
-                            "text": "Studying user experience principles."
+                            "title": "{{UX & UI}} Design",
+                            "text": "Studying user experience principles and enjoy exploring the visual side of UI design"
                         },
                         "tr": {
-                            "title": "Diseño {{UX}}",
-                            "text": "Estudiando los principios de la experiencia del usuario."
+                            "title": "{{UX & UI}} Tasarımı",
+                            "text": "Kullanıcı deneyimi ilkelerini inceliyorum ve UI tasarımının görsel yönünü keşfetmekten keyif alıyorum."
                         },
                         "nl": {
-                            "title": "Conception {{UX}}",
-                            "text": "Étudier les principes de l'expérience utilisateur."
+                            "title": "{{UX & UI}} Design",
+                            "text": "User experience-principes bestuderen en ik vind het leuk om de visuele kant van UI design te verkennen."
                         }
                     }
                 },
                 {
                     "id": 5,
                     "img": "",
-                    "faIcon": "fa-solid fa-camera-retro",
+                    "faIcon": "fa-solid fa-book-open",
                     "faIconColors": {"bg": "", "fill": ""},
                     "label": null,
                     "link": {"href": null, "tooltipString": null},
                     "locales": {
                         "en": {
-                            "title": "{{Photography}} & Photoshop",
-                            "text": "Enhancing photos through creative editing techniques."
+                            "title": "{{Reading}} Books & Manga",
+                            "text": "A perfect way to relax, discover new worlds, and fuel my imagination."
                         },
-                        "es": {
-                            "title": "{{Fotografía}} y Photoshop",
-                            "text": "Mejorando fotos a través de técnicas creativas de edición."
+                        "tr": {
+                            "title": "{{Kitap ve Manga}} Okumak",
+                            "text": "Rahatlamak, yeni dünyalar keşfetmek ve hayal gücümü beslemek için harika bir yol."
                         },
-                        "fr": {
-                            "title": "{{Photographie}} & Photoshop",
-                            "text": "Améliorer des photos avec des techniques de montage créatives."
-                        },
-                        "ko": {
-                            "title": "{{사진}} 및 포토샵",
-                            "text": "창의적인 편집 기술을 통해 사진을 향상시키기."
+                        "nl": {
+                            "title": "{{Boeken & Manga}} & Lezen",
+                            "text": "De ideale manier om te ontspannen, nieuwe werelden te ontdekken en mijn verbeelding te prikkelen."
                         }
                     }
                 },
                 {
                     "id": 6,
-                    "faIcon": "fa-solid fa-drum-steelpan",
+                    "faIcon": "fa-solid fa-horse",
                     "faIconColors": {"bg": "", "fill": ""},
                     "label": null,
                     "link": {"href": null, "tooltipString": null},
                     "locales": {
                         "en": {
-                            "title": "Playing {{drums}}",
-                            "text": "Exploring different genres and improving my skills."
+                            "title": "{{Horse}} Riding",
+                            "text": "Being outdoors and around my favorite animals has been a passion of mine since I was 6 years old."
                         },
-                        "es": {
-                            "title": "Tocar {{batería}}",
-                            "text": "Explorando diferentes géneros y mejorando mis habilidades."
+                        "tr": {
+                            "title": "{{At}} Binicilik",
+                            "text": "6 yaşımdan beri en sevdiğim hayvanların yanında, doğada vakit geçirmek benim için bir tutku."
                         },
-                        "fr": {
-                            "title": "Jouer de la {{batterie}}",
-                            "text": "Explorer différents genres et améliorer mes compétences."
-                        },
-                        "ko": {
-                            "title": "{{드럼}} 연주",
-                            "text": "다양한 장르를 탐험하고 기술을 향상시키기."
+                        "nl": {
+                            "title": "{{Paard}}rijden",
+                            "text": "Sinds mijn zesde is buiten zijn en tijd doorbrengen met mijn favoriete dieren een echte passie van mij."
                         }
                     }
                 }
