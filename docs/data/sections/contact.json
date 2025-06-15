@@ -1,0 +1,122 @@
+{
+    "title": {
+        "locales": {
+            "en": {
+                "title_short": "Contact",
+                "title_short_nav": "Contact",
+                "title_long_prefix": "Don't hesitate to",
+                "title_long": "{{Contact}} Me"
+            },
+            "tr": {
+                "title_short": "İletişim",
+                "title_short_nav": "İletişim",
+                "title_long_prefix": "Tereddüt etmeyin",
+                "title_long": "Benimle {{iletişime}} geçin"
+            },
+            "nl": {
+                "title_short": "Contact",
+                "title_short_nav": "Contact",
+                "title_long_prefix": "Aarzel niet om",
+                "title_long": "{{Contact}} op te nemen"
+            }
+        }
+    },
+
+    "articles": [
+        {
+            "id": 1,
+            "component": "ArticleContactForm",
+            "settings": {
+                "email_js_public_key": "tzObcsmOwHvPy6Rhp",
+                "email_js_service_id": "service_4h8g7vb",
+                "email_js_template_id": "template_react"
+            },
+            "locales": {
+                "en": {
+                    "contact_thank_you_title": "{{Thanks}} for the contact!",
+                    "contact_thank_you_body": "Your message has been received, and I'll be reaching out to you soon. I appreciate your time and look forward to connecting with you!",
+                    "contact_thank_you_footer": "The reply will be sent to your email address: {{$email}}",
+                    "title": "Send me a {{message}}"
+                },
+                "tr": {
+                    "contact_thank_you_title": "İletişim için {{teşekkürler}}",
+                    "contact_thank_you_body": "Mesajınız alındı, en kısa sürede sizinle iletişime geçeceğim. Zaman ayırdığınız için teşekkür ederim ve sizinle iletişim kurmayı dört gözle bekliyorum!",
+                    "contact_thank_you_footer": "Yanıt, e-posta adresinize gönderilecektir: {{$email}}",
+                    "title": "Bana bir {{mesaj}} gönder"
+                },
+                "nl": {
+                    "contact_thank_you_title": "{{Bedankt}} voor het contact!",
+                    "contact_thank_you_body": "Je bericht is ontvangen en ik neem binnenkort contact met je op. Bedankt voor je tijd en ik kijk ernaar uit om met je in contact te komen!",
+                    "contact_thank_you_footer": "Het antwoord wordt verzonden naar je e-mailadres: {{$email}}",
+                    "title": "Stuur me een {{bericht}}"
+                }
+            },
+            "items": null
+        },
+
+        {
+            "id": 2,
+            "component": "ArticleInfoList",
+            "settings": {
+                "order_items_by": "id",
+                "order_items_sort": "asc"
+            },
+            "locales": {
+                "en": {"title": "Or if you {{prefer}}..."},
+                "tr": {"title": "Ya da {{tercih ederseniz}}..."},
+                "nl": {"title": "Of als je {{liever wilt}}..."}
+            },
+            "items": [
+                {
+                    "id": 1,
+                    "faIcon": "fa-solid fa-phone",
+                    "faIconColors": { "bg": "", "fill": "" },
+                    "label": "+31644440621",
+                    "link": {"href": "tel:31644440621", "tooltipString": "call_me"},
+                    "locales": {
+                        "en": {"title": "Phone"},
+                        "tr": {"title": "Telefon"},
+                        "nl": {"title": "Telefoon"}
+                    }
+                },
+                {
+                    "id":2,
+                    "faIcon": "fa-solid fa-envelope",
+                    "faIconColors": { "bg": "", "fill": "" },
+                    "label": "dua2003@live.nl",
+                    "link": {"href": "mailto:dua2003@live.nl", "tooltipString": "email_me"},
+                    "locales": {
+                        "en": {"title": "E-mail"},
+                        "tr": {"title": "E-posta"}, 
+                        "nl": {"title": "E-mail"}
+                    }
+                },
+                {
+                    "id": 3,
+                    "faIcon": "fa-brands fa-linkedin",
+                    "faIconColors": { "bg": "", "fill": "" },
+                    "label": "@duagüven",
+                    "link": {"href": "https://www.linkedin.com/in/duag%C3%BCven/", "tooltipString": "open_website"},
+                    "locales": {
+                        "en": {"title": "LinkedIn"},
+                        "tr": {"title": "LinkedIn"},
+                        "nl": {"title": "LinkedIn"}
+                        
+                    }
+                },
+                {
+                    "id": 4,
+                    "faIcon": "fa-brands fa-github",
+                    "faIconColors": { "bg": "", "fill": "" },
+                    "label": "odeat",
+                    "link": {"href": "https://github.com/odeat", "tooltipString": "open_website"},
+                    "locales": {
+                        "en": {"title": "GitHub"},
+                        "tr": {"title": "GitHub"},
+                        "nl": {"title": "GitHub"}
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,194 @@
+{
+    "title": {
+        "locales": {
+            "en": {
+                "title_short": "Education",
+                "title_short_nav": "Education",
+                "title_long_prefix": "This is my",
+                "title_long": "{{Education}} Background"
+            },
+            "tr": {
+                "title_short": "Eğitim",
+                "title_short_nav": "Eğitim",
+                "title_long_prefix": "Bu benim",
+                "title_long": "{{Eğitim}} Geçmişi"
+            },
+            "nl": {
+                "title_short": "Opleiding",
+                "title_short_nav": "Opleiding",
+                "title_long_prefix": "Dit is mijn",
+                "title_long": "{{opleidings}}achtergrond"
+            }
+        }
+    },
+
+    "articles": [
+        {
+            "id": 1,
+            "component": "ArticleTimeline",
+            "locales": {},
+            "settings": {
+                "order_items_by": "dateStart",
+                "order_items_sort": "desc"
+            },
+            "items": [
+                {
+                    "id": 2,
+                    "img": "images/pictures/timeline-place-KMC.png",
+                    "faIcon": "",
+                    "faIconColors": {"bg": "", "fill": ""},
+                    "dateStart": {"year": 2017, "month": 9},
+                    "dateEnd": {"year": 2022, "month": 6},
+                    "locales": {
+                        "en": {
+                            "title": "{{HAVO diploma}} Senior General Secondary Education",
+                            "province": "Hoofddorp",
+                            "country": "NL",
+                            "institution": "Kaj Munk College",
+                            "text": "Earned a [[HAVO diploma]], with a focus on Culture and Society. Studied subjects such as history, social sciences, languages, and the arts. Gained a strong foundation in critical thinking, communication, and cultural analysis through interdisciplinary coursework and collaborative school projects.",
+                            "list": [],
+                            "tags": []
+                        },
+                        "tr": {
+                            "title": "{{HAVO diploması}} Ortaöğretim Üst Seviyesi",
+                            "province": "Hoofddorp",
+                            "country": "NL",
+                            "institution": "Kaj Munk College",
+                            "text": "Kültür ve Toplum alanında odaklanarak [[HAVO diploması]] aldım. Tarih, sosyal bilimler, diller ve sanat gibi dersler gördüm. Bu eğitim sürecinde eleştirel düşünme, iletişim ve kültürel analiz konularında sağlam bir temel kazandım; ayrıca disiplinler arası projeler ve grup çalışmalarıyla tecrübe edindim.",
+                            "list": [],
+                            "tags": []
+                        },
+                        "nl": {
+                            "title": "HAVO-diploma Hoger Algemeen Voortgezet Onderwijs",
+                            "province": "Hoofddorp",
+                            "country": "NL",
+                            "institution": "Kaj Munk College",
+                            "text": "[[HAVO-diploma]] behaald met het profiel Cultuur en Maatschappij. Vakken zoals geschiedenis, sociale wetenschappen, talen en kunst gestudeerd. Een sterke basis gelegd in kritisch denken, communicatie en culturele analyse door middel van interdisciplinaire cursussen en samenwerkingsprojecten op school.",
+                            "list": [],
+                            "tags": []
+                        }
+                    }
+                },
+                {
+                    "id": 3,
+                    "img": "images/pictures/timeline-place-HHS.png",
+                    "faIcon": "",
+                    "faIconColors": {"bg": "", "fill": ""},
+                    "dateStart": {"year": 2022, "month": 9},
+                    "dateEnd": {"year": 2027, "month": 6},
+                    "locales": {
+                        "en": {
+                            "title": "{{Bachelor’s}} in Software Engineering",
+                            "province": "The Hague",
+                            "country": "NL",
+                            "institution": "The Hague University of Applied Sciences",
+                            "text": "Currently pursuing a Bachelor's in Software Engineering with a strong focus on both software development and applied data technologies. Courses and projects have included hands-on experience with:",
+                            "list": [
+                                "Java, C#, JavaScript, HTML, CSS, SQL, LINQ, and basic Python",
+                                "Database design, normalization, and data analysis",
+                                "Data Engineering & Data Science fundamentals",
+                                "Machine Learning and Neural Networks"
+                            ],
+                            "tags": [
+                                "Software Development",
+                                "Data Engineering",
+                                "Machine Learning"
+
+                            ]
+                        },
+                        "tr": {
+                            "title": "{{Uygulamalı Bilimler Lisans Programı}} Yazılım Mühendisliği",
+                            "province": "Lahey",
+                            "country": "Hollanda",
+                            "institution": "Lahey Uygulamalı Bilimler Üniversitesi",
+                            "text": "Şu anda yazılım geliştirme ve uygulamalı veri teknolojilerine odaklanan Yazılım Mühendisliği lisans programına devam ediyorum. Dersler ve projeler sayesinde aşağıdaki konularda uygulamalı deneyim kazandım:",
+                            "list": [
+                                "Java, C#, JavaScript, HTML, CSS, SQL, LINQ ve temel seviyede Python",
+                                "Veritabanı tasarımı, normalizasyon ve veri analizi",
+                                "Veri Mühendisliği ve Veri Bilimi'nin temel kavramları",
+                                "Makine Öğrenimi ve Sinir Ağları"
+                            ],
+                            "tags": [
+                                "Yazılım Geliştirme",
+                                "Veri Mühendisliği", 
+                                "Makine Öğrenimi"
+                            ]
+                        },
+                        "nl": {
+                            "title": "{{HBO Bachelor}} Software Engineering",
+                            "province": "Den Haag",
+                            "country": "NL",
+                            "institution": "De Haagse Hogeschool",
+                            "text": "Momenteel volg ik een HBO-opleiding Software Engineering met een sterke focus op zowel software ontwikkeling als toegepaste datatechnologieën. Tijdens de opleiding heb ik via projecten en praktijkopdrachten hands-on ervaring opgedaan met:",
+                            "list": [
+                                "Java, C#, JavaScript, HTML, CSS, SQL, LINQ en basiskennis van Python",
+                                "Databaseontwerp, normalisatie en data-analyse",
+                                "Basisprincipes van Data Engineering & Data Science",
+                                "Machine Learning en Neurale Netwerken"
+                            ],
+                            "tags": [
+                                "Software ontwikkeling",
+                                "Data-engineering",
+                                "Machine learning"
+                            ]
+                        }
+                    }
+                },
+                {
+                    "id": 4,
+                    "img": "images/pictures/timeline-place-HvA.png",
+                    "faIcon": "",
+                    "faIconColors": {"bg": "", "fill": ""},
+                    "dateStart": {"year": 2025, "month": 2},
+                    "dateEnd": {"year": 2025, "month": 6},
+                    "locales": {
+                        "en": {
+                            "title": "{{Minor}} in Visual Interface Design",
+                            "province": "Amsterdam",
+                            "country": "NL",
+                            "institution": "Amsterdam University of Applied Sciences",
+                            "text": "During this one-semester minor, I focused on designing accessible and visually engaging user interfaces. I gained hands-on experience with:",
+                            "list": [
+                                "Accessible design",
+                                "Typography, color & grids",
+                                "Animations & transitions",
+                                "Sound & visual feedback"
+                            ],
+                            "tags": [
+                                "UI Design", "UX Principles", "Interaction Design", "Visual Communication"
+                            ]
+                        },
+                        "tr": {
+                            "title": "{{Yan Dal}} Görsel Arayüz Tasarımı",
+                            "province": "Amsterdam",
+                            "country": "NL",
+                            "institution": "Amsterdam Uygulamalı Bilimler Üniversitesi",
+                            "text": "Bu bir dönemlik yan dal programında, erişilebilir ve görsel olarak etkileyici kullanıcı arayüzleri tasarlamaya odaklandım. Uygulamalı olarak deneyim kazandım:",
+                            "list": [
+                                "Erişilebilir tasarım",
+                                "Tipografi, renk kullanımı & ızgara sistemleri",
+                                "Animasyonlar & geçişler",
+                                "Ses & görsel geri bildirim"
+                            ],
+                            "tags": ["UI Tasarımı", "UX Prensipleri", "Etkileşim Tasarımı", "Görsel İletişim"]
+                        },
+                        "nl": {
+                            "title": "{{Minor}} Visual Interface Design",
+                            "province": "Amsterdam",
+                            "country": "NL",
+                            "institution": "Hogeschool van Amsterdam",
+                            "text": "Tijdens deze één semester durende minor richtte ik mij op het ontwerpen van toegankelijke en visueel aantrekkelijke gebruikersinterfaces. Ik heb praktijkervaring opgedaan met:",
+                            "list": [
+                                "Toegankelijk ontwerp",
+                                "Typografie, kleurgebruik & grids",
+                                "Animaties & overgangen",
+                                "Geluid & visuele feedback"
+                            ],
+                            "tags": ["UI Design", "UX-principes", "Interaction Design", "Visuele Communicatie"]
+                        }
+                    }
+                }
+            ]
+        }
+    ]
+}

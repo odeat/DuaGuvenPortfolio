@@ -1,0 +1,45 @@
+{
+    "name": "Dua Güven",
+
+    "profilePictureUrl": "images/pictures/profile-picture.jpg",
+    "resumePdfUrl": "",
+
+    "statusCircleVisible": true,
+    "statusCircleVariant": "available",
+    "statusCircleHoverMessage": "status_message_available_for_freelance",
+
+    "locales": {
+        "en": {
+            "localized_name": "Dua Güven",
+            "localized_name_stylized": " [[Dua {{Güven}}]]",
+            "status_message_available_for_freelance": "Looking for an internship! :)",
+            "roles": [
+                "Software Engineer",
+                "Frontend Developer",
+                "Backend Developer",
+                "UX Designer",
+                "UI Designer"
+            ]
+        },
+        "tr": {
+            "status_message_available_for_freelance": "Staj arıyorum! :)",
+            "roles": [
+                "Yazılım Mühendisi",
+                "Ön Uç Geliştirici",
+                "Arka Uç Geliştiricisi",
+                "UX Tasarımcısı",
+                "UI Tasarımcısı"
+            ]
+        },
+        "nl": {
+            "status_message_available_for_freelance": "Op zoek naar een stageplek! :)",
+            "roles": [
+                "Software-ingenieur",
+                "Frontend-ontwikkelaar",
+                "Backend-ontwikkelaar",
+                "UX-ontwerper",
+                "UI-ontwerper"
+            ]
+        }
+    }
+}

@@ -1,0 +1,390 @@
+{
+    "title": {
+        "locales": {
+            "en": {
+                "title_short": "Life recently",
+                "title_short_nav": "Updates",
+                "title_long_prefix": "Take a look at my",
+                "title_long": "Recent {{Updates}}"
+            },
+            "es": {
+                "title_short": "Vida Reciente",
+                "title_short_nav": "Actualizaciones",
+                "title_long_prefix": "Consulta mis",
+                "title_long": "Actualizaciones {{Recientes}}"
+            },
+            "fr": {
+                "title_short": "Vie Récente",
+                "title_short_nav": "Mises à Jour",
+                "title_long_prefix": "Découvrez mes",
+                "title_long": "Dernières {{Mises à Jour}}"
+            }
+        }
+    },
+
+    "articles": [
+        {
+            "id": 1,
+            "component": "ArticleFacts",
+            "locales": {},
+            "settings": {
+                "order_items_by": "id",
+                "order_items_sort": "asc"
+            },
+            "items": [
+                {
+                    "id": 1,
+                    "img": null,
+                    "faIcon": "fa-solid fa-tablet-screen-button",
+                    "faIconColors": {"bg": "", "fill": ""},
+                    "locales": {
+                        "en": {
+                            "title": "03",
+                            "text": "Apps Published"
+                        },
+                        "es": {
+                            "text": "Aplicaciones Publicadas"
+                        },
+                        "fr": {
+                            "text": "Applications Publiées"
+                        }
+                    }
+                },
+                {
+                    "id": 2,
+                    "img": null,
+                    "faIcon": "fa-solid fa-star",
+                    "faIconColors": {"bg": "", "fill": ""},
+                    "locales": {
+                        "en": {
+                            "title": "100+",
+                            "text": "Stars on GitHub"
+                        },
+                        "es": {
+                            "text": "Estrellas en GitHub"
+                        },
+                        "fr": {
+                            "text": "Étoiles sur GitHub"
+                        }
+                    }
+                },
+                {
+                    "id": 3,
+                    "img": null,
+                    "faIcon": "fa-solid fa-globe",
+                    "faIconColors": {"bg": "", "fill": ""},
+                    "locales": {
+                        "en": {
+                            "title": "12",
+                            "text": "Countries visited"
+                        },
+                        "es": {
+                            "text": "Países Visitados"
+                        },
+                        "fr": {
+                            "text": "Pays Visités"
+                        }
+                    }
+                },
+                {
+                    "id": 4,
+                    "img": null,
+                    "faIcon": "fa-solid fa-diagram-project",
+                    "faIconColors": {"bg": "", "fill": ""},
+                    "locales": {
+                        "en": {
+                            "title": "07",
+                            "text": "Open-source projects"
+                        },
+                        "es": {
+                            "text": "Proyectos de Código Abierto"
+                        },
+                        "fr": {
+                            "text": "Projets Open-source"
+                        }
+                    }
+                },
+                {
+                    "id": 5,
+                    "img": null,
+                    "faIcon": "fa-solid fa-coffee",
+                    "faIconColors": {"bg": "", "fill": ""},
+                    "locales": {
+                        "en": {
+                            "title": "20,000",
+                            "text": "Coffees consumed"
+                        },
+                        "es": {
+                            "text": "Cafés Consumidos"
+                        },
+                        "fr": {
+                            "text": "Cafés Consommés"
+                        }
+                    }
+                },
+                {
+                    "id": 6,
+                    "img": null,
+                    "faIcon": "fa-solid fa-laptop-code",
+                    "faIconColors": {"bg": "", "fill": ""},
+                    "locales": {
+                        "en": {
+                            "title": "1,000,000+",
+                            "text": "Lines of code"
+                        },
+                        "es": {
+                            "text": "Líneas de código"
+                        },
+                        "fr": {
+                            "text": "Lignes de code"
+                        }
+                    }
+                },
+                {
+                    "id": 7,
+                    "img": null,
+                    "faIcon": "fa-solid fa-heart",
+                    "faIconColors": {"bg": "", "fill": ""},
+                    "locales": {
+                        "en": {
+                            "title": "Infinite",
+                            "text": "Passion for learning"
+                        },
+                        "es": {
+                            "title": "Infinita",
+                            "text": "Pasión por Aprender"
+                        },
+                        "fr": {
+                            "title": "Infinie",
+                            "text": "Passion d'apprendre"
+                        }
+                    }
+                }
+            ]
+        },
+
+        {
+            "id": 2,
+            "component": "ArticleThread",
+            "locales": {
+                "en": { "title": "Quick {{Facts}}" },
+                "es": { "title": "Feed de {{Noticias}}" },
+                "fr": { "title": "Fil d'{{Actualités}}" },
+                "ko": { "title": "{{뉴스}} 피드" }
+            },
+            "settings": {
+                "max_rows_collapse_threshold": 3,
+                "order_items_by": "dateStart",
+                "order_items_sort": "desc"
+            },
+            "items": [
+                {
+                    "id": 1,
+                    "date": {"year": 2022, "month": 9},
+                    "preview": {
+                        "links": [],
+                        "screenshots": [],
+                        "screenshotsAspectRatio": "",
+                        "youtubeVideo": ""
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "Relocating to {{California!}}",
+                            "province": "Ontario",
+                            "country": "Canada",
+                            "institution": "",
+                            "text": "I’ve recently made the move to California, USA, to explore new opportunities, both professionally and personally. I’m looking forward to discovering what this vibrant state has to offer and embracing all the challenges and experiences that come with this new chapter in my life. Excited for what’s ahead! Stay tuned for updates on my journey and the adventures that await in the Golden State!"
+                        },
+                        "es": {
+                            "title": "Mudándome a {{California!}}",
+                            "province": "Ontario",
+                            "country": "Canadá",
+                            "institution": "",
+                            "text": "Recientemente me he mudado a California, EE.UU., para explorar nuevas oportunidades, tanto profesionales como personales. Estoy deseando descubrir lo que este vibrante estado tiene para ofrecer y abrazar todos los desafíos y experiencias que vienen con este nuevo capítulo de mi vida. ¡Emocionado por lo que está por venir! Mantente atento a las actualizaciones sobre mi viaje y las aventuras que me esperan en el Estado Dorado."
+                        },
+                        "fr": {
+                            "title": "Déménagement en {{Californie!}}",
+                            "province": "Ontario",
+                            "country": "Canada",
+                            "institution": "",
+                            "text": "Je viens de déménager en Californie, aux États-Unis, pour explorer de nouvelles opportunités, tant professionnelles que personnelles. J'ai hâte de découvrir ce que cet État dynamique a à offrir et de relever tous les défis et expériences qui accompagnent ce nouveau chapitre de ma vie. Excité pour ce qui m'attend ! Restez à l'écoute pour des mises à jour sur mon parcours et les aventures qui m'attendent dans l'État d'Or !"
+                        }
+                    }
+                },
+                {
+                    "id": 2,
+                    "date": {"year": 2023, "month": 6},
+                    "preview": {
+                        "links": [],
+                        "screenshots": [],
+                        "screenshotsAspectRatio": "",
+                        "youtubeVideo": "https://www.youtube.com/watch?v=oFCy3vEIAQk"
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "Started my own {{Youtube Channel!}}",
+                            "province": "California",
+                            "country": "US",
+                            "institution": "",
+                            "text": "I’m thrilled to announce the launch of my own YouTube channel! 🎥✨ Join me on this exciting journey as I share my passion for technology, coding, and all things digital. From tutorials and tips to project showcases, I can’t wait to connect with you all through this platform. Don’t forget to subscribe and hit the notification bell to stay updated on my latest videos. Let’s embark on this adventure together!"
+                        },
+                        "es": {
+                            "title": "¡Comencé mi propio {{Canal de YouTube!}}",
+                            "province": "California",
+                            "country": "EE.UU.",
+                            "institution": "",
+                            "text": "¡Estoy emocionado de anunciar el lanzamiento de mi propio canal de YouTube! 🎥✨ Únete a mí en este emocionante viaje mientras comparto mi pasión por la tecnología, la programación y todo lo digital. Desde tutoriales y consejos hasta presentaciones de proyectos, no puedo esperar para conectar con todos ustedes a través de esta plataforma. No olvides suscribirte y activar la campana de notificaciones para estar al tanto de mis últimos videos. ¡Embarquémonos juntos en esta aventura!"
+                        },
+                        "fr": {
+                            "title": "Lancement de ma propre {{Chaîne YouTube!}}",
+                            "province": "Californie",
+                            "country": "États-Unis",
+                            "institution": "",
+                            "text": "Je suis ravi d'annoncer le lancement de ma propre chaîne YouTube ! 🎥✨ Rejoignez-moi dans cette aventure passionnante où je partagerai ma passion pour la technologie, la programmation et tout ce qui est numérique. Des tutoriels et astuces aux présentations de projets, j'ai hâte de me connecter avec vous tous à travers cette plateforme. N'oubliez pas de vous abonner et d'activer la cloche de notification pour rester informé de mes dernières vidéos. Embarquons ensemble dans cette aventure !"
+                        }
+                    }
+                },
+                {
+                    "id": 3,
+                    "date": {"year": 2024, "month": 12},
+                    "preview": {
+                        "links": [
+                            {"href": "https://medium.com", "tooltipString": "open_website", "faIcon": "fa-brands fa-medium"}
+                        ],
+                        "screenshots": [],
+                        "screenshotsAspectRatio": "",
+                        "youtubeVideo": ""
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "Working on a new {{mobile project!}}",
+                            "province": "California",
+                            "country": "US",
+                            "institution": "",
+                            "text": "I’m excited to share that I’m currently working on a new mobile project! Some features of this project include:",
+                            "list": [
+                                "Cross-platform compatibility with iOS and Android",
+                                "User-friendly interface with intuitive navigation",
+                                "Integration with popular APIs for enhanced functionality",
+                                "Real-time data synchronization for seamless user experience"
+                            ]
+                        },
+                        "es": {
+                            "title": "Trabajando en un nuevo {{proyecto móvil!}}",
+                            "province": "California",
+                            "country": "EE.UU.",
+                            "institution": "",
+                            "text": "Estoy emocionado de compartir que actualmente estoy trabajando en un nuevo proyecto móvil! Algunas características de este proyecto incluyen:",
+                            "list": [
+                                "Compatibilidad multiplataforma con iOS y Android",
+                                "Interfaz amigable con navegación intuitiva",
+                                "Integración con APIs populares para funcionalidad mejorada",
+                                "Sincronización de datos en tiempo real para una experiencia de usuario fluida"
+                            ]
+                        },
+                        "ko": {
+                            "title": "{{모바일 프로젝트!}} 작업 중",
+                            "province": "캘리포니아",
+                            "country": "미국",
+                            "institution": "",
+                            "text": "현재 새로운 모바일 프로젝트를 작업 중입니다! 이 프로젝트의 몇 가지 기능은 다음과 같습니다:",
+                            "list": [
+                                "iOS 및 Android와의 크로스 플랫폼 호환성",
+                                "직관적인 탐색을 갖춘 사용자 친화적인 인터페이스",
+                                "기능 향상을 위한 인기 API 통합",
+                                "원활한 사용자 경험을 위한 실시간 데이터 동기화"
+                            ]
+                        }
+                    }
+                },
+                {
+                    "id": 4,
+                    "date": {"year": 2025, "month": 3},
+                    "preview": {
+                        "links": [],
+                        "screenshots": [],
+                        "screenshotsAspectRatio": "",
+                        "youtubeVideo": ""
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "Attending the {{Tech Conference 2025!}}",
+                            "province": "Tokyo",
+                            "country": "Japan",
+                            "institution": "Tech Innovators Inc.",
+                            "text": "I’m thrilled to announce that I’ll be attending the [[Tech Conference 2025]] in Tokyo, Japan! This event is a fantastic opportunity to connect with industry leaders, learn about the latest trends in technology, and share insights with fellow tech enthusiasts. I’m looking forward to engaging in discussions, attending workshops, and exploring innovative solutions that are shaping the future of our industry. If you’re attending the conference, let’s connect! I’d love to meet fellow developers and tech lovers. Stay tuned for updates and highlights from the event!"
+                        },
+                        "es": {
+                            "title": "Asistiendo a la {{Conferencia de Tecnología 2025!}}",
+                            "province": "Tokio",
+                            "country": "Japón",
+                            "institution": "Tech Innovators Inc.",
+                            "text": "¡Estoy emocionado de anunciar que asistiré a la [[Conferencia de Tecnología 2025]] en Tokio, Japón! Este evento es una oportunidad fantástica para conectar con líderes de la industria, aprender sobre las últimas tendencias en tecnología y compartir ideas con otros entusiastas de la tecnología. Estoy deseando participar en discusiones, asistir a talleres y explorar soluciones innovadoras que están dando forma al futuro de nuestra industria. Si vas a asistir a la conferencia, ¡conectemos! Me encantaría conocer a otros desarrolladores y amantes de la tecnología. ¡Mantente atento a las actualizaciones y momentos destacados del evento!"
+                        },
+                        "fr": {
+                            "title": "Participation à la {{Conférence Tech 2025!}}",
+                            "province": "Tokyo",
+                            "country": "Japon",
+                            "institution": "Tech Innovators Inc.",
+                            "text": "Je suis ravi d’annoncer que je participerai à la [[Tech Conference 2025]] à Tokyo, au Japon ! Cet événement est une occasion formidable de rencontrer des leaders du secteur, de découvrir les dernières tendances technologiques et d’échanger avec d’autres passionnés de tech. J’ai hâte de participer aux discussions, d’assister aux ateliers et d’explorer des solutions innovantes qui façonnent l’avenir de notre industrie. Si vous assistez à la conférence, n’hésitez pas à me contacter ! Ce serait un plaisir de rencontrer d’autres développeurs et amateurs de technologie. Restez connectés pour des mises à jour et des moments forts de l’événement !"
+                        }
+                    }
+                },
+                {
+                    "id": 5,
+                    "date": {"year": 2025, "month": 6},
+                    "preview": {
+                        "links": [
+                            {"href": "https://google.com", "tooltipString": "open_website", "faIcon": "fa-solid fa-link"},
+                            {"href": "https://github.com/ryanbalieiro/react-portfolio-template", "tooltipString": "see_on_github", "faIcon": "fa-brands fa-github"}
+                        ],
+                        "screenshots": [],
+                        "screenshotsAspectRatio": "",
+                        "youtubeVideo": ""
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "Launched my {{personal website!}}",
+                            "province": "California",
+                            "country": "US",
+                            "institution": "",
+                            "text": "I’m excited to announce the launch of my [[personal website]]! 🎉 This platform is a space where I can share my projects, blog posts, and insights into the world of technology and development. It’s been a labor of love, and I can’t wait for you all to explore it. Here are some highlights of what you can find on the site:",
+                            "list": [
+                                "Portfolio showcasing my projects and contributions",
+                                "Blog with articles on technology, coding, and personal experiences",
+                                "Contact form for inquiries and collaborations",
+                                "Links to my social media profiles and GitHub"
+                            ]
+                        },
+                        "es": {
+                            "title": "¡Lanzamiento de mi {{sitio web personal!}}",
+                            "province": "California",
+                            "country": "EE.UU.",
+                            "institution": "",
+                            "text": "Estoy emocionado de anunciar el lanzamiento de mi [[sitio web personal]]! 🎉 Esta plataforma es un espacio donde puedo compartir mis proyectos, publicaciones de blog y reflexiones sobre el mundo de la tecnología y el desarrollo. Ha sido un trabajo de amor, y no puedo esperar a que todos lo exploren. Aquí hay algunos aspectos destacados de lo que puedes encontrar en el sitio:",
+                            "list": [
+                                "Portafolio que muestra mis proyectos y contribuciones",
+                                "Blog con artículos sobre tecnología, codificación y experiencias personales",
+                                "Formulario de contacto para consultas y colaboraciones",
+                                "Enlaces a mis perfiles en redes sociales y GitHub"
+                            ]
+                        },
+                        "fr": {
+                            "title": "Lancement de mon {{site web personnel!}}",
+                            "province": "Californie",
+                            "country": "États-Unis",
+                            "institution": "",
+                            "text": "Je suis ravi d'annoncer le lancement de mon [[site web personnel]] ! 🎉 Cette plateforme est un espace où je peux partager mes projets, articles de blog et réflexions sur le monde de la technologie et du développement. C'est un travail de passion, et j'ai hâte que vous l'exploriez tous. Voici quelques points forts de ce que vous pouvez trouver sur le site :",
+                            "list": [
+                                "Portfolio présentant mes projets et contributions",
+                                "Blog avec des articles sur la technologie, la programmation et mes expériences personnelles",
+                                "Formulaire de contact pour les demandes et collaborations",
+                                "Liens vers mes profils sur les réseaux sociaux et GitHub"
+                            ]
+                        }
+                    }
+                }
+            ]
+        }
+    ]
+}

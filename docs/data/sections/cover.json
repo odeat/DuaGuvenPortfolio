@@ -1,0 +1,233 @@
+{
+    "title": {
+        "locales": {
+            "en": {
+                "title_short": "Welcome!",
+                "title_short_nav": "About me",
+                "title_long_prefix": "Hello...",
+                "title_long": "I'm {{Dua Güven!}}"
+            },
+            "tr": {
+                "title_short": "Hoş geldin!",
+                "title_short_nav": "Benim hakkımda",
+                "title_long_prefix": "Merhaba...",
+                "title_long": "Ben {{Dua Güven!}}"
+            },
+            "nl": {
+                "title_short": "Welkom!",
+                "title_short_nav": "Over mij",
+                "title_long_prefix": "Hallo",
+                "title_long": "Ik ben {{Dua Güven!}}"
+            }
+        }
+    },
+
+    "articles": [
+        {
+            "id": 1,
+            "component": "ArticleInlineList",
+            "locales": {},
+            "settings": {
+                "order_items_by": "id",
+                "order_items_sort": "asc",
+                "display_as_list_if_width_is_lower_than": 380
+            },
+            "items": [
+                {
+                    "id": 1,
+                    "label": "Amsterdam – NL",
+                    "link": {"href": "", "tooltipString": ""},
+                    "faIcon": "fa-regular fa-address-book"
+                },
+                {
+                    "id": 2,
+                    "label": "dua2003@live.nl",
+                    "link": {"href": "dua2003@live.nl", "tooltipString": "email_me"},
+                    "faIcon": "fa-regular fa-envelope"
+                },
+                {
+                    "id": 3,
+                    "label": "@odeat",
+                    "link": {"href": "https://github.com/odeat", "tooltipString": "see_on_github"},
+                    "faIcon": "fa-brands fa-github"
+                }
+            ]
+        },
+
+        {
+            "id": 2,
+            "component": "ArticleText",
+            "locales": {
+                "en": {"title": "A little bit {{about me...}}"},
+                "tr": {"title": "Biraz {{benim hakkımda...}}"},
+                "nl": {"title": "Een beetje {{over mij...}}"}
+            },
+            "settings": {
+                "order_items_by": "id",
+                "order_items_sort": "asc"
+            },
+            "items": [
+                {
+                    "id": 1,
+                    "img": "images/pictures/about-texts-image-1.png",
+                    "faIcon": "",
+                    "faIconColors": {"bg": "", "fill": ""},
+                    "locales": {
+                        "en": {
+                            "text": "<p>I’m a {{Software Engineer}} student at The Hague University of Applied Sciences with [[two years]] of coding experience in both frontend and backend development.</p><p>During my studies, I’ve worked with languages such as Java, C#, basic Python, SQL, JavaScript, HTML, and CSS, building a solid foundation in modern software development.</p><p>I look forward to collaborating [[with you!]]</p>"
+                        },
+                        "tr": {
+                            "text": "<p>Lahey Uygulamalı Bilimler Üniversitesi’nde {{Yazılım Mühendisliği}} öğrencisiyim ve hem frontend hem de backend geliştirme konusunda [[iki yıllık]] deneyime sahibim</p><p>Eğitimim sırasında Java, C#, temel seviyede Python, SQL, JavaScript, HTML ve CSS gibi programlama dilleriyle çalıştım ve modern yazılım geliştirme konusunda sağlam bir temel edindim.</p><p>[[Sizinle]] iş birliği yapmayı dört gözle bekliyorum!</p>"
+                        },
+                        "nl": {
+                            "text": "<p>Ik ben een {{Software Engineering}} student aan De Haagse Hogeschool met [[twee jaar]] ervaring in zowel frontend- als backendontwikkeling.</p><p>Tijdens mijn opleiding heb ik gewerkt met programmeertalen zoals Java, C#, basiskennis van Python, SQL, JavaScript, HTML en CSS, en heb ik een sterke basis gelegd in moderne software ontwikkeling.</p><p>Ik kijk ernaar uit om samen te werken [[met u!]]</p>"
+                        }
+                    }
+                }
+            ]
+        },
+
+        {
+            "id": 4,
+            "component": "ArticleInfoList",
+            "settings": {
+                "order_items_by": "id",
+                "order_items_sort": "asc"
+            },
+            "locales": {
+                "en": {"title": "Personal {{interests}}"},
+                "tr": {"title": "Kişisel {{ilgi alanları}}"},
+                "nl": {"title": "Persoonlijke  {{interesses}} "}
+            },
+            "items": [
+                {
+                    "id": 1,
+                    "faIcon": "fa-solid fa-code",
+                    "faIconColors": {"bg": "", "fill": ""},
+                    "label": null,
+                    "link": {"href": null, "tooltipString": null},
+                    "locales": {
+                        "en": {
+                            "title": "{{Programming}} & Development",
+                            "text": "It’s where I channel my inspiration into building creative and functional things."
+                        },
+                        "tr": {
+                            "title": "{{Programlama}} & Geliştirme",
+                            "text": "İlhamımı yaratıcı ve işlevsel şeyler üretmeye yönlendirdiğim yer burası."
+                        },
+                        "nl": {
+                            "title": "{{Programmeren}} & Ontwikkeling",
+                            "text": "Hier kan ik al mijn inspiratie kwijt door iets creatiefs en functioneels te maken."
+                        }
+                    }
+                },
+                {
+                    "id": 2,
+                    "faIcon": "fa-solid fa-palette",
+                    "faIconColors": {"bg": "", "fill": ""},
+                    "label": null,
+                    "link": {"href": null, "tooltipString": null},
+                    "locales": {
+                        "en": {
+                            "title": "{{Arts}} & Illustration",
+                            "text": "Practicing digital art and exploring new styles."
+                        },
+                        "tr": {
+                            "title": "{{Sanat }} & İllüstrasyon",
+                            "text": "Dijital sanat pratiği yapıyor ve yeni stiller keşfetmeyi seviyorum."
+                        },
+                        "nl": {
+                            "title": "{{Kunst}} & Illustratie",
+                            "text": "Ik oefen met digitale kunst en ontdek graag nieuwe stijlen."
+                        }
+                    }
+                },
+                {
+                    "id": 3,
+                    "faIcon": "fa-solid fa-gamepad",
+                    "faIconColors": {"bg": "", "fill": ""},
+                    "label": null,
+                    "link": {"href": null, "tooltipString": null},
+                    "locales": {
+                        "en": {
+                            "title": "{{Video}}games",
+                            "text": "I love getting lost in game worlds where creativity, strategy, and fun come together."
+                        },
+                        "tr": {
+                            "title": "{{Video}} oyunları",
+                            "text": "Oyun dünyalarına dalmayı seviyorum; yaratıcılık, strateji ve eğlence burada bir araya geliyor."
+                        },
+                        "nl": {
+                            "title": "{{Video}}games",
+                            "text": "Ik hou ervan om mezelf te verliezen in gamewerelden waar creativiteit, strategie en plezier samenkomen."
+                        }
+                    }
+                },
+                {
+                    "id": 4,
+                    "faIcon": "fa-solid fa-window-restore",
+                    "faIconColors": {"bg": "", "fill": ""},
+                    "label": null,
+                    "link": {"href": null, "tooltipString": null},
+                    "locales": {
+                        "en": {
+                            "title": "{{UX & UI}} Design",
+                            "text": "Studying user experience principles and enjoy exploring the visual side of UI design"
+                        },
+                        "tr": {
+                            "title": "{{UX & UI}} Tasarımı",
+                            "text": "Kullanıcı deneyimi ilkelerini inceliyorum ve UI tasarımının görsel yönünü keşfetmekten keyif alıyorum."
+                        },
+                        "nl": {
+                            "title": "{{UX & UI}} Design",
+                            "text": "User experience-principes bestuderen en ik vind het leuk om de visuele kant van UI design te verkennen."
+                        }
+                    }
+                },
+                {
+                    "id": 5,
+                    "img": "",
+                    "faIcon": "fa-solid fa-book-open",
+                    "faIconColors": {"bg": "", "fill": ""},
+                    "label": null,
+                    "link": {"href": null, "tooltipString": null},
+                    "locales": {
+                        "en": {
+                            "title": "{{Reading}} Books & Manga",
+                            "text": "A perfect way to relax, discover new worlds, and fuel my imagination."
+                        },
+                        "tr": {
+                            "title": "{{Kitap ve Manga}} Okumak",
+                            "text": "Rahatlamak, yeni dünyalar keşfetmek ve hayal gücümü beslemek için harika bir yol."
+                        },
+                        "nl": {
+                            "title": "{{Boeken & Manga}} Lezen",
+                            "text": "De ideale manier om te ontspannen, nieuwe werelden te ontdekken en mijn verbeelding te prikkelen."
+                        }
+                    }
+                },
+                {
+                    "id": 6,
+                    "faIcon": "fa-solid fa-horse",
+                    "faIconColors": {"bg": "", "fill": ""},
+                    "label": null,
+                    "link": {"href": null, "tooltipString": null},
+                    "locales": {
+                        "en": {
+                            "title": "{{Horse}} Riding",
+                            "text": "Being outdoors and around my favorite animals has been a passion of mine since I was 6 years old."
+                        },
+                        "tr": {
+                            "title": "{{At}} Binicilik",
+                            "text": "6 yaşımdan beri en sevdiğim hayvanların yanında, doğada vakit geçirmek benim için bir tutku."
+                        },
+                        "nl": {
+                            "title": "{{Paard}}rijden",
+                            "text": "Sinds mijn zesde is buiten zijn en tijd doorbrengen met mijn favoriete dieren een echte passie van mij."
+                        }
+                    }
+                }
+            ]
+        }
+    ]
+}
