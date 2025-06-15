@@ -34,16 +34,16 @@
                     "category_utilities": "Utilities"
                 },
                 "tr": {
-                    "category_all": "Todo",
-                    "category_apps": "Apps",
-                    "category_web": "Web",
-                    "category_utilities": "Utilidades"
+                    "category_all": "Hepsi",
+                    "category_apps": "Uygulamalar",
+                    "category_web": "Ağ",
+                    "category_utilities": "Yardımcı programlar"
                 },
-                "fnlr": {
-                    "category_all": "Tout",
+                "nl": {
+                    "category_all": "Alles",
                     "category_apps": "Apps",
                     "category_web": "Web",
-                    "category_utilities": "Utilitaires"
+                    "category_utilities": "Voorzieningen"
                 }
             },
             "settings": {
