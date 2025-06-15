@@ -33,17 +33,17 @@
                     "category_web": "Web",
                     "category_utilities": "Utilities"
                 },
-                "es": {
-                    "category_all": "Todo",
-                    "category_apps": "Apps",
-                    "category_web": "Web",
-                    "category_utilities": "Utilidades"
+                "tr": {
+                    "category_all": "Hepsi",
+                    "category_apps": "Uygulamalar",
+                    "category_web": "Ağ",
+                    "category_utilities": "Yardımcı programlar"
                 },
-                "fr": {
-                    "category_all": "Tout",
+                "nl": {
+                    "category_all": "Alles",
                     "category_apps": "Apps",
                     "category_web": "Web",
-                    "category_utilities": "Utilitaires"
+                    "category_utilities": "Voorzieningen"
                 }
             },
             "settings": {
