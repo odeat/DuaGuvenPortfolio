@@ -52,7 +52,7 @@
             "locales": {
                 "en": {"name": "Dark Mode"},
                 "nl": {"name": "Donkere Modus"},
-                "tr": {"name": "karanlık mod"}
+                "tr": {"name": "Karanlık mod"}
             }
         },
         {
@@ -61,9 +61,8 @@
             "dark": false,
             "locales": {
                 "en": {"name": "Light Mode"},
-                "es": {"name": "Modo Claro"},
-                "fr": {"name": "Mode Clair"},
-                "ko": {"name": "라이트 모드"}
+                "tr": {"name": "Aydınlık mod"},
+                "fr": {"name": "Lichtmodus"}
             }
         }
     ],

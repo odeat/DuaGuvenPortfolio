@@ -7,23 +7,17 @@
                 "title_long_prefix": "Summary of my",
                 "title_long": "{{Work}} Experience"
             },
-            "es": {
-                "title_short": "Experiencia",
-                "title_short_nav": "Experiencia",
-                "title_long_prefix": "Resumen de mi",
-                "title_long": "Experiencia {{Laboral}}"
+            "tr": {
+                "title_short": "Deneyim",
+                "title_short_nav": "Deneyim",
+                "title_long_prefix": "Özeti",
+                "title_long": " Çalışma {{Deneyimlerimin}}"
             },
-            "fr": {
-                "title_short": "Expérience",
-                "title_short_nav": "Expérience",
-                "title_long_prefix": "Résumé de mon",
-                "title_long": "Parcours {{Professionel}}"
-            },
-            "ko": {
-                "title_short": "경험",
-                "title_short_nav": "경험",
-                "title_long_prefix": "이것은 내",
-                "title_long": "{{직업적}} 경험"
+            "nl": {
+                "title_short": "Ervaring",
+                "title_short_nav": "Ervaring",
+                "title_long_prefix": "Samenvatting van mijn",
+                "title_long": "Werk {{Ervaring}}"
             }
         }
     },
