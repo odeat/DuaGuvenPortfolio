@@ -75,7 +75,7 @@
                     "faIcon": "",
                     "faIconColors": {"bg": "", "fill": ""},
                     "dateStart": {"year": 2022, "month": 9},
-                    "dateEnd": {"year": 2027, "month": 6},
+                    "dateEnd": {"now": true},
                     "locales": {
                         "en": {
                             "title": "{{Bachelor’s}} in Software Engineering",

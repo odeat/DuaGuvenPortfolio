@@ -34,139 +34,133 @@
             "items": [
                 {
                     "id": 1,
-                    "img": "images/pictures/timeline-place-sapphire-studio.png",
+                    "img": "images/pictures/timeline-place-AH.png",
                     "faIcon": "",
                     "faIconColors": {"bg": "", "fill": ""},
                     "dateStart": {"year": 2016, "month": 3},
                     "dateEnd": {"year": 2018, "month": 6},
                     "locales": {
                         "en": {
-                            "title": "{{Backend}} Developer",
-                            "province": "Toronto",
-                            "country": "Canada",
-                            "institution": "Sapphire Studio",
-                            "text": "Developed and maintained [[scalable backend systems]] for various clients, optimizing database performance and implementing RESTful APIs to improve application functionality.",
+                            "title": "All-round {{Retail Assistant}}",
+                            "province": "Amsterdam Schiphol Airport",
+                            "country": "NL",
+                            "institution": "Albert Heijn",
+                            "text": "As a modularly deployable employee, I worked both at the checkout and in the bakery department. Thanks to my flexibility, I was able to switch between tasks quickly and step in wherever needed. I supported customers daily in Dutch, English, and Turkish.",
                             "list": [],
-                            "tags": ["PHP8.0", "MySQL", "Laravel"]
+                            "tags": ["All-round", "Flexibility", "Multilingual"]
                         },
-                        "es": {
-                            "title": "Desarrollador {{Backend}}",
-                            "province": "Toronto",
-                            "country": "Canadá",
-                            "institution": "Sapphire Studio",
-                            "text": "Desarrollé y mantuve [[sistemas backend escalables]] para varios clientes, optimizando el rendimiento de bases de datos e implementando APIs RESTful para mejorar la funcionalidad de las aplicaciones.",
+                        "tr": {
+                            "title": "Çok Yönlü {{Mağaza Görevlisi}}",
+                            "province": "Amsterdam, Schiphol Havalimanı",
+                            "country": "NL",
+                            "institution": "Albert Heijn",
+                            "text": "Modüler şekilde görevlendirilebilen bir çalışan olarak, hem kasada hem de fırın bölümünde çalıştım. Esnekliğim sayesinde görevler arasında hızlıca geçiş yapabiliyor ve ihtiyaç duyulan her yerde destek olabiliyordum. Müşterilere her gün Hollandaca, İngilizce ve Türkçe olarak destek verdim.",
                             "list": [],
-                            "tags": []
+                            "tags": ["Çok Yönlü", "Esneklik", "Çok Dilli"]
                         },
-                        "fr": {
-                            "title": "Développeur {{Backend}}",
-                            "province": "Toronto",
-                            "country": "Canada",
-                            "institution": "Sapphire Studio",
-                            "text": "Développement et maintenance de [[systèmes backend évolutifs]] pour divers clients, optimisation des performances des bases de données et mise en place d’API RESTful pour améliorer les fonctionnalités des applications.",
+                        "nl": {
+                            "title": "Allround {{winkelmedewerker}}",
+                            "province": "Amsterdam Schiphol Airport",
+                            "country": "NL",
+                            "institution": "Albert Heijn",
+                            "text": "Als modulair inzetbare medewerker werkte ik zowel achter de kassa als op de broodafdeling. Dankzij mijn flexibiliteit kon ik snel schakelen tussen taken en inspringen waar nodig. Ik ondersteunde klanten dagelijks in het Nederlands, Engels en Turks.",
                             "list": [],
-                            "tags": []
-                        },
-                        "ko": {
-                            "title": "{{백엔드}} 개발자",
-                            "province": "토론토",
-                            "country": "캐나다",
-                            "institution": "Sapphire Studio",
-                            "text": "다양한 클라이언트를 위한 [[확장 가능한 백엔드 시스템]]을 개발하고 유지보수했으며, 데이터베이스 성능을 최적화하고 RESTful API를 구현하여 애플리케이션 기능을 향상시켰습니다.",
-                            "list": [],
-                            "tags": []
+                            "tags": ["Allround", "Flexibiliteit", "Meertalig"]
                         }
                     }
                 },
                 {
                     "id": 2,
-                    "img": "images/pictures/timeline-place-coursera.png",
+                    "img": "images/pictures/timeline-place-sushiDaily.png",
                     "faIcon": "",
                     "faIconColors": {"bg": "", "fill": ""},
-                    "dateStart": {"year": 2018, "month": 6},
-                    "dateEnd": {"year": 2020, "month": 12},
+                    "dateStart": {"year": 2021, "month": 1},
+                    "dateEnd": {"year": 2022, "month": 12},
                     "locales": {
                         "en": {
-                            "title": "{{Full-Stack}} Engineer",
-                            "province": "",
-                            "country": "Remote",
-                            "institution": "Coursera",
-                            "text": "Worked on enhancing the Coursera website by implementing new features and improving user experience, utilizing both frontend and backend technologies to ensure seamless functionality.",
+                            "title": "Junior {{Sushi Chef}}",
+                            "province": "Amsterdam Schiphol Airport",
+                            "country": "NL",
+                            "institution": "Sushi Daily",
+                            "text": "At Sushi Daily in Schiphol Airport, I worked in a fast-paced international environment where English was the standard language (ESL). With a constant flow of travelers, I learned to perform well under pressure and maintain high levels of accuracy and customer service. This experience strengthened my English communication skills and my ability to stay focused and efficient in high-stress situations.",
                             "list": [],
-                            "tags": ["Svelte", "NodeJS", "Laravel", "REST APIs", "Docker"]
+                            "tags": ["ESL", "Stress Resilience", "International Environment", "Hospitality", "Team Player"]
+
                         },
-                        "es": {
-                            "title": "Ingeniero {{Full-Stack}}",
-                            "province": "",
-                            "country": "Remoto",
-                            "institution": "Coursera",
-                            "text": "Trabajé en la mejora del sitio web de Coursera implementando nuevas funciones y optimizando la experiencia del usuario, utilizando tecnologías tanto de frontend como de backend para garantizar una funcionalidad fluida.",
+                        "tr": {
+                            "title": "Genç {{Sushi Şefi}}",
+                            "province": "Amsterdam, Schiphol Havalimanı",
+                            "country": "NL",
+                            "institution": "Sushi Daily",
+                            "text": "Schiphol Havalimanı’ndaki Sushi Daily’de, İngilizcenin ana dil olarak kullanıldığı hızlı tempolu ve uluslararası bir ortamda çalıştım (ESL). Sürekli gelen yolcu akışı sayesinde baskı altında etkili çalışmayı, hassasiyet ve müşteri memnuniyetini korumayı öğrendim. Bu deneyim, İngilizce iletişim becerilerimi geliştirdi ve stresli durumlarda odaklanma ve verimli kalma yeteneğimi güçlendirdi.",
                             "list": [],
-                            "tags": []
+                            "tags": ["ESL", "Stres Dayanıklılığı", "Uluslararası Ortam", "Esneklik", "Takım Oyuncusu"]
+
                         },
-                        "fr": {
-                            "title": "Ingénieur {{Full-Stack}}",
-                            "province": "",
-                            "country": "Télétravail",
-                            "institution": "Coursera",
-                            "text": "Participation à l'amélioration du site web de Coursera en développant de nouvelles fonctionnalités et en optimisant l’expérience utilisateur, en utilisant des technologies frontend et backend pour assurer un fonctionnement fluide.",
+                        "nl": {
+                            "title": "Junior {{Sushi Chef}}",
+                            "province": "Amsterdam Schiphol Airport",
+                            "country": "NL",
+                            "institution": "Sushi Daily",
+                            "text": "Bij Sushi Daily op Schiphol werkte ik in een internationale en dynamische omgeving waar Engels de standaardtaal was (ESL). Door de constante stroom aan reizigers leerde ik om goed te presteren onder druk en tegelijkertijd nauwkeurigheid en klantgerichtheid te behouden. Deze ervaring heeft mijn communicatievaardigheden in het Engels versterkt en mijn vermogen vergroot om efficiënt en gefocust te blijven in stressvolle situaties.",
                             "list": [],
-                            "tags": []
-                        },
-                        "ko": {
-                            "title": "{{풀스택}} 엔지니어",
-                            "province": "",
-                            "country": "원격",
-                            "institution": "Coursera",
-                            "text": "Coursera 웹사이트의 기능을 향상시키기 위해 새로운 기능을 구현하고 사용자 경험을 개선하는 작업을 수행했으며, 프론트엔드와 백엔드 기술을 모두 활용하여 원활한 동작을 보장했습니다.",
-                            "list": [],
-                            "tags": []
+                            "tags": ["ESL", "Stressbestendigheid", "Internationaal", "Hospitality", "Teamplayer"]
+
                         }
                     }
                 },
                 {
                     "id": 3,
-                    "img": "images/pictures/timeline-place-adobe.png",
+                    "img": "images/pictures/timeline-place-MediaMarkt.png",
                     "faIcon": "",
                     "faIconColors": {"bg": "", "fill": ""},
-                    "dateStart": {"year": 2020, "month": 12},
-                    "dateEnd": {"year": 2022, "month": 11},
+                    "dateStart": {"year": 2022, "month": 2},
+                    "dateEnd": {"now": true},
                     "locales": {
                         "en": {
-                            "title": "{{Backend}} Engineer",
-                            "province": "New York",
-                            "country": "US",
-                            "institution": "Adobe Inc",
-                            "text": "Contributed to the development of robust backend systems for Adobe Creative Cloud, integrating third-party services and improving data processing efficiency through cloud functions.",
-                            "list": [],
-                            "tags": ["JavaScript", "Flutter", "MongoDB", "CodeIgniter", "Kubernetes"]
+                            "title": "{{MediaMarkt}} Verkoopspecialist",
+                            "province": "Hoofddorp",
+                            "country": "NL",
+                            "institution": "MediaMarkt",
+                            "text": "Working as a Sales Specialist at MediaMarkt (Telecommunications department) by:",
+                            "list": [
+                                "Closing and tailoring mobile contracts based on individual customer needs",
+                                "Driving customer acquisition and growing client relationships",
+                                "Obtained security and integrity certificates to strengthen data security",
+                                "Enhancing sales operations through effective processes and teamwork",
+                                "Keeping up-to-date with telecom products, services, and promotions"                                
+                        ],
+                            "tags": ["Sales Specialist", "Customer Acquisition", "Sales Operations", "Telecommunication Services"]
                         },
-                        "es": {
-                            "title": "Ingeniero {{Backend}}",
-                            "province": "Nueva York",
-                            "country": "EE. UU.",
-                            "institution": "Adobe Inc",
-                            "text": "Contribuí al desarrollo de sistemas backend robustos para Adobe Creative Cloud, integrando servicios de terceros y mejorando la eficiencia del procesamiento de datos mediante funciones en la nube.",
-                            "list": [],
-                            "tags": []
+                        "tr": {
+                            "title": "{{MediaMarkt}} Satış Uzmanı",
+                            "province": "Hoofddorp",
+                            "country": "NL",
+                            "institution": "MediaMarkt",
+                            "text": "MediaMarkt'ta (Telekomünikasyon departmanı) Satış Uzmanı olarak çalışarak:",
+                            "list": ["Müşteriye özel mobil sözleşmeleri hazırlamak ve sonlandırmak",
+                                    "Veri güvenliğini güçlendirmek amacıyla güvenlik ve dürüstlük sertifikaları alındı",
+                                    "Müşteri kazanımını artırmak ve müşteri ilişkilerini geliştirmek",
+                                    "Satış operasyonlarını etkili süreçler ve takım çalışması ile iyileştirmek",
+                                    "Telekom ürünleri, hizmetleri ve kampanyaları hakkında güncel kalmak"
+                                    
+                            ],
+                            "tags": ["Satış Uzmanı", "Müşteri Kazanımı", "Satış Operasyonları", "Telekomünikasyon Hizmetleri"]
                         },
-                        "fr": {
-                            "title": "Ingénieur {{Backend}}",
-                            "province": "New York",
-                            "country": "États-Unis",
-                            "institution": "Adobe Inc",
-                            "text": "Participation au développement de systèmes backend robustes pour Adobe Creative Cloud, intégration de services tiers et amélioration de l’efficacité du traitement des données via des fonctions cloud.",
-                            "list": [],
-                            "tags": []
-                        },
-                        "ko": {
-                            "title": "{{백엔드}} 엔지니어",
-                            "province": "뉴욕",
-                            "country": "미국",
-                            "institution": "Adobe Inc",
-                            "text": "Adobe Creative Cloud를 위한 견고한 백엔드 시스템 개발에 기여하였으며, 서드파티 서비스 통합 및 클라우드 기능을 활용한 데이터 처리 효율 향상에 집중했습니다.",
-                            "list": [],
-                            "tags": []
+                        "nl": {
+                            "title": "{{MediaMarkt}} Verkoopspecialist",
+                            "province": "Hoofddorp",
+                            "country": "NL",
+                            "institution": "MediaMarkt",
+                            "text": "Werken als verkoopspecialist bij MediaMarkt (afdeling Telecommunicatie) door:",
+                            "list": [
+                                "Mobiele contracten afsluiten en op maat maken naar klantbehoefte",
+                                "Bijdragen aan klantacquisitie en klantrelaties opbouwen",
+                                "Security- en integriteitscertificaten behaald ter versterking dataveiligheid",
+                                "Sales operations verbeteren via efficiënte processen en teamwork",
+                                "Actueel blijven over telecomproducten, diensten en promoties"                                
+                            ],
+                            "tags": ["Verkoopspecialist", "Klantacquisitie", "Sales Operations", "Telecommunicatiediensten"]
                         }
                     }
                 },
@@ -175,68 +169,56 @@
                     "img": "",
                     "faIcon": "fa-brands fa-apple",
                     "faIconColors": {"bg": "#111", "fill": "#EEE"},
-                    "dateStart": {"year": 2022, "month": 12},
+                    "dateStart": {"year": 2023, "month": 5},
                     "dateEnd": {"now": true},
                     "locales": {
                         "en": {
-                            "title": "{{Senior Backend}} Developer",
-                            "province": "California",
-                            "country": "US",
+                            "title": "{{Apple}} Champion+",
+                            "province": "Hoofddorp",
+                            "country": "NL",
                             "institution": "Apple Inc",
-                            "text": "Leading a team of developers to design and implement backend solutions for Apple's services, with a focus on:",
+                            "text": "Fulfilling the role of Apple Champion within a retail environment by:",
                             "list": [
-                                "Security",
-                                "Scalability to handle millions of users globally",
-                                "Developing RESTful APIs",
-                                "Optimizing database performance with PostgreSQL",
-                                "Building services with Swift, PHP, and GraphQL"
+                                "Strong communication: clearly explaining to both customers and colleagues",
+                                "Training & support: coaching and sharing knowledge with the team",
+                                "Merchandising: ensuring flawless Apple store presentation",
+                                "Customer focus: listening and responding to individual needs",
+                                "Connection: acting as a bridge between Apple and the store team",
+                                "Certification: staying up-to-date through official Apple trainings"
                             ],
-                            "tags": ["JavaScript", "React", "NodeJS", "PHP", "REST APIs", "Docker"]
+                            "tags": ["Product Specialist", "Training", "Customer Experience", "Sales", "Communication", "Teamwork"]
                         },
-                        "es": {
-                            "title": "Desarrollador {{Senior Backend}}",
-                            "province": "California",
-                            "country": "EE. UU.",
+                        "tr": {
+                            "title": "{{Apple}} Şampiyonu+",
+                            "province": "Hoofddorp",
+                            "country": "NL",
                             "institution": "Apple Inc",
-                            "text": "Liderando un equipo de desarrolladores para diseñar e implementar soluciones backend para los servicios de Apple, con enfoque en:",
+                            "text": "Perakende ortamında Apple Champion rolünü üstlenerek:",
                             "list": [
-                                "Seguridad",
-                                "Escalabilidad para manejar millones de usuarios a nivel global",
-                                "Desarrollo de APIs RESTful",
-                                "Optimización del rendimiento de bases de datos con PostgreSQL",
-                                "Creación de servicios con Swift, PHP y GraphQL"
+                                "Güçlü iletişim: hem müşterilere hem de ekip arkadaşlarına net açıklamalar yapmak",
+                                "Eğitim & destek: ekibe koçluk yapmak ve bilgi paylaşmak",
+                                "Mağaza düzeni: kusursuz Apple mağaza sunumunu sağlamak",
+                                "Müşteri odaklılık: bireysel ihtiyaçları dinlemek ve yanıt vermek",
+                                "Bağlantı: Apple ile mağaza ekibi arasında köprü olmak",
+                                "Sertifikasyon: resmi Apple eğitimleri ile güncel kalmak"
                             ],
-                            "tags": []
+                            "tags": ["Ürün Uzmanı", "Eğitim", "Müşteri Deneyimi", "Satış", "İletişim", "Takım Çalışması"]
                         },
-                        "fr": {
-                            "title": "Développeur {{Senior Backend}}",
-                            "province": "Californie",
-                            "country": "États-Unis",
+                        "nl": {
+                            "title": "{{Apple}} Champion+",
+                            "province": "Hoofddorp",
+                            "country": "NL",
                             "institution": "Apple Inc",
-                            "text": "Responsable d'une équipe de développeurs pour concevoir et mettre en œuvre des solutions backend pour les services Apple, en se concentrant sur :",
+                            "text": "De rol van Apple Champion vervullen binnen een retailomgeving door:",
                             "list": [
-                                "La sécurité",
-                                "L’évolutivité pour gérer des millions d’utilisateurs dans le monde",
-                                "Le développement d’API RESTful",
-                                "L’optimisation des performances des bases de données avec PostgreSQL",
-                                "La création de services avec Swift, PHP et GraphQL"
+                                "Sterke communicatie: helder uitleggen aan zowel klanten als collega’s",
+                                "Training & support: coachen en kennis delen met het team",
+                                "Merchandising: zorgen voor een perfecte Apple-presentatie in de winkel",
+                                "Klantgerichtheid: luisteren en inspelen op individuele behoeften",
+                                "Connectie: functioneren als brug tussen Apple en het winkelteam",
+                                "Certificering: up-to-date blijven via officiële Apple-trainingen"
                             ],
-                            "tags": []
-                        },
-                        "ko": {
-                            "title": "{{시니어 백엔드}} 개발자",
-                            "province": "캘리포니아",
-                            "country": "미국",
-                            "institution": "Apple Inc",
-                            "text": "Apple의 서비스를 위한 백엔드 솔루션을 설계하고 구현하는 개발팀을 이끌며 다음에 중점을 두고 있습니다:",
-                            "list": [
-                                "보안",
-                                "전 세계 수백만 사용자를 처리할 수 있는 확장성",
-                                "RESTful API 개발",
-                                "PostgreSQL을 사용한 데이터베이스 성능 최적화",
-                                "Swift, PHP, GraphQL로 서비스 구축"
-                            ],
-                            "tags": []
+                            "tags": ["Productspecialist", "Training", "Klantbeleving", "Verkoop", "Communicatie", "Teamwerk"]
                         }
                     }
                 }
