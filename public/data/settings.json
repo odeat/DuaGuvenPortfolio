@@ -1,14 +1,14 @@
 {
     "developerSettings": {
-        "debugMode": true,
+        "debugMode": false,
         "fakeEmailRequests": false,
-        "stayOnThePreloaderScreen": false,
+        "stayOnThePreloaderScreen": true,
         "version": "2.0.0"
     },
 
     "preloaderSettings": {
         "enabled": true,
-        "title": "React <strong>Dua's portfolio</strong>",
+        "title": "React <strong>Dua's Portfolio</strong>",
         "subtitle": "by Dua Güven",
         "logoOffset": {
             "right": 14,
