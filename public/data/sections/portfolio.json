@@ -54,38 +54,37 @@
             "items": [
                 {
                     "id": 1,
-                    "categoryId": "category_utilities",
-                    "img": "images/pictures/portfolio-project-logo-3.png",
+                    "categoryId": "category_web",
+                    "img": "images/pictures/portfolio-project-logo-blob.png",
                     "faIcon": "",
                     "faIconColors": {"bg": "", "fill": ""},
                     "preview": {
                         "links": [
-                            {"href": "https://github.com", "tooltipString": "see_on_github", "faIcon": "fa-brands fa-github"},
-                            {"href": "https://npm.com", "tooltipString": "see_on_npm", "faIcon": "fa-brands fa-npm"}
+                            {"href": "https://github.com/odeat/blob", "tooltipString": "see_on_github", "faIcon": "fa-brands fa-github"},                           
+                            {"href": "https://odeat.github.io/blob/", "tooltipString": "open_website", "faIcon": "fa-solid fa-link"}
                         ],
                         "screenshots": [
-                            "images/pictures/screenshot-demo-landscape-1.png",
-                            "images/pictures/screenshot-demo-landscape-2.png",
-                            "images/pictures/screenshot-demo-landscape-3.png",
-                            "images/pictures/screenshot-demo-landscape-4.png",
-                            "images/pictures/screenshot-demo-landscape-5.png"
-                        ],
-                        "screenshotsAspectRatio": "16:9",
-                        "youtubeVideo": "https://www.youtube.com/watch?v=32XsfeIX_rM"
+                            "images/pictures/screenshot-demo-blob.png",
+                            "images/pictures/screenshot2-demo-blob.png",
+                            "images/pictures/screenshot3-demo-blob.png",
+                            "images/pictures/screenshot4-demo-blob.png",
+                            "images/pictures/screenshot5-demo-blob.png"
+                            
+                        ]
                     },
                     "locales": {
                         "en": {
-                            "title": "BrainPulse",
-                            "text": "A <b>RESTful API</b> backend built with <b>Node.js</b>, designed for high-performance data processing and real-time event handling.",
-                            "tags": ["API", "REST", "Backend"]
+                            "title": "Blob",
+                            "text": "An <b>interactive physics-based</b> blob built with p5.js and Toxiclibs, featuring <b>dynamic</b> animations, sound effects, and HTML controls",
+                            "tags": ["JavaScript", "p5.js", "Toxiclibs"]
                         },
-                        "es": {
-                            "text": "Una <b>API RESTful</b> construida con <b>Node.js</b>, diseñada para el procesamiento de datos de alto rendimiento y la gestión de eventos en tiempo real.",
-                            "tags": ["API", "REST", "Backend"]
+                        "tr": {
+                            "text": "p5.js ve Toxiclibs ile oluşturulmuş, fizik tabanlı <b>etkileşimli</b> bir blob; <b>dinamik</b> animasyonlar, ses efektleri ve HTML kontrolleri içerir.",
+                            "tags": ["JavaScript", "p5.js", "Toxiclibs"]
                         },
-                        "fr": {
-                            "text": "Un backend <b>API RESTful</b> construit avec <b>Node.js</b>, conçu pour le traitement de données haute performance et la gestion d'événements en temps réel.",
-                            "tags": ["API", "REST", "Backend"]
+                        "nl": {
+                            "text": "Een <b>interactieve blob</b> gebaseerd op fysica, gebouwd met p5.js en Toxiclibs, met <b>dynamische</b> animaties, geluidseffecten en HTML-bedieningselementen.",
+                            "tags": ["JavaScript", "Toxiclibs", "Toxiclibs"]
                         }
                     }
                 },
