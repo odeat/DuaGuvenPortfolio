@@ -37,8 +37,8 @@
                     "img": "images/pictures/timeline-place-AH.png",
                     "faIcon": "",
                     "faIconColors": {"bg": "", "fill": ""},
-                    "dateStart": {"year": 2016, "month": 3},
-                    "dateEnd": {"year": 2018, "month": 6},
+                    "dateStart": {"year": 2018, "month": 11},
+                    "dateEnd": {"year": 2020, "month": 2},
                     "locales": {
                         "en": {
                             "title": "All-round {{Retail Assistant}}",
