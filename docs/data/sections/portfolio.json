@@ -321,6 +321,47 @@
                             "tags": ["Typografie", "Visueel Interfaceontwerp", "Interactie"]
                         }
                     }
+                },
+                {
+                    "id": 2,
+                    "categoryId": "category_utilities",
+                    "img": "images/pictures/portfolio-project-logo-Pluk.png",
+                    "faIcon": "",
+                    "faIconColors": {"bg": "", "fill": ""},
+                    "preview": {
+                        "links": [
+                            {"href": "https://www.figma.com/design/8OUfS2nikURaXcq14dJqOw/Pluk--grid---kleur-?m=auto&t=zDQEKsj5OEEeNnFF-1", "tooltipString": "open_website", "faIcon": "fa-brands fa-figma"}
+                        ],
+                        "screenshots": [
+                            "images/pictures/screenshot-demo1-pluk.png",
+                            "images/pictures/screenshot-demo2-pluk.png",
+                            "images/pictures/screenshot-demo3-pluk.png",
+                            "images/pictures/screenshot-demo4-pluk.png",
+                            "images/pictures/screenshot-demo5-pluk.png",
+                            "images/pictures/screenshot-demo6-pluk.png",
+                            "images/pictures/screenshot-demo7-pluk.png",
+                            "images/pictures/screenshot-demo8-pluk.png",
+                            "images/pictures/screenshot-demo9-pluk.png",
+                            "images/pictures/screenshot-demo10-pluk.png"
+                            
+                        ],
+                        "screenshotsAspectRatio": "16:9"
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "Pluk",
+                            "text": "An informative and <b>visually appealing website</b> about local flower sales in the Netherlands, created for the course <b>Grid and Color</b>. It covers the origin, meaning, and trade of <b>flowers</b>, with attention to trends, seasons, and the role of the Netherlands in the global flower market. Everything is presented in a matching and well-crafted interface.",
+                            "tags": ["Webdesign", "UX/UI Design", "Grid & Color"]
+                        },
+                        "tr": {
+                            "text": "Hollanda’daki yerel çiçek satışı hakkında bilgilendirici ve <b>görsel olarak etkileyici bir web sitesi</b>. <b>Grid ve Renk</b> dersi için oluşturulmuştur. <b>Çiçeklerin</b> kökeni, anlamı ve ticareti anlatılırken; trendler, mevsimler ve Hollanda’nın küresel çiçek pazarındaki rolüne de yer veriliyor. Tüm bilgiler uyumlu ve özenle hazırlanmış bir arayüzde sunulmaktadır.",
+                            "tags": ["Web Tasarımı", "UX/UI Tasarımı", "Izgara ve Renk"]
+                        },
+                        "nl": {
+                            "text": "Een informatieve en <b>visueel aantrekkelijke website</b> over de lokale <b>bloemen</b>verkoop in Nederland, gemaakt voor het vak <b>Grid en Kleur</b>. Je leest over de herkomst, betekenis en handel van bloemen, met aandacht voor trends, seizoenen en de rol van Nederland in de wereldwijde bloemenmarkt. Alles wordt gepresenteerd in een bijpassende en zorgvuldig ontworpen interface.",
+                            "tags": ["Webdesign", "UX/UI Design", "Grid & Color"]
+                        }
+                    }
                 }
             ]
         }
