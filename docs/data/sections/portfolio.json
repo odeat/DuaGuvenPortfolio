@@ -31,19 +31,19 @@
                     "category_all": "All",
                     "category_apps": "Apps",
                     "category_web": "Web",
-                    "category_utilities": "Utilities"
+                    "category_utilities": "UI Design"
                 },
                 "tr": {
                     "category_all": "Hepsi",
                     "category_apps": "Uygulamalar",
                     "category_web": "Ağ",
-                    "category_utilities": "Yardımcı programlar"
+                    "category_utilities": "UI Tasarımı"
                 },
                 "nl": {
                     "category_all": "Alles",
                     "category_apps": "Apps",
                     "category_web": "Web",
-                    "category_utilities": "Voorzieningen"
+                    "category_utilities": "UI Design"
                 }
             },
             "settings": {
@@ -90,7 +90,7 @@
                 },
                 {
                     "id": 2,
-                    "categoryId": "category_web",
+                    "categoryId": "category_utilities",
                     "img": "images/pictures/portfolio-project-logo-boxOfSecrets.png",
                     "faIcon": "",
                     "faIconColors": {"bg": "", "fill": ""},
@@ -154,7 +154,41 @@
                             "tags": ["JavaScript", "Visuele Effecten", "Creatief Programmeren"]
                         }
                     }
-                 }
+                 },
+
+                 {
+                    "id": 2,
+                    "categoryId": "category_web",
+                    "img": "images/pictures/portfolio-project-logo-bloemetjesGroeien.png",
+                    "faIcon": "",
+                    "faIconColors": {"bg": "", "fill": ""},
+                    "preview": {
+                        "links": [
+                            {"href": "https://github.com/odeat/bloemetjesGroeien", "tooltipString": "see_on_github", "faIcon": "fa-brands fa-github"},
+                            {"href": "https://odeat.github.io/bloemetjesGroeien/", "tooltipString": "open_website", "faIcon": "fa-solid fa-link"}
+                        ],
+                        "screenshots": [
+                            "images/pictures/screenshot-demo1-growingFlowers.png",
+                            "images/pictures/screenshot-demo2-growingFlowers.png",
+                            "images/pictures/screenshot-demo3-growingFlowers.png"
+                        ]
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "Growing Flowers",
+                            "text": "An <b>interactive</b>, curiosity-driven experience built with p5.js and Matter.js, featuring <b>movable boxes</b>, personal secrets, sound, and multimedia storytelling.",
+                            "tags": ["JavaScript", "Matter.js", "UI Design"]
+                        },
+                        "tr": {
+                            "text": "p5.js ve Matter.js ile oluşturulmuş <b>etkileşimli</b>, merak uyandıran bir deneyim; <b>hareket ettirilebilir kutular</b>, kişisel sırlar, ses ve multimedya hikaye anlatımı içerir.",
+                            "tags": ["JavaScript", "Matter.js", "UI Design"]
+                        },
+                        "nl": {
+                            "text": "Een <b>interactieve</b>, nieuwsgierigheid-opwekkende ervaring gebouwd met p5.js en Matter.js, met <b>verplaatsbare dozen</b>, persoonlijke geheimen, geluid en multimediale storytelling.",
+                            "tags": ["JavaScript", "E-Matter.js", " Arayüz Tasarımı"]
+                        }
+                    }
+                }
             ]
         }
     ]
