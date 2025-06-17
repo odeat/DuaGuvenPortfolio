@@ -191,6 +191,39 @@
                 },
                 {
                     "id": 2,
+                    "categoryId": "category_web",
+                    "img": "images/pictures/portfolio-project-logo-cybercity.png",
+                    "faIcon": "",
+                    "faIconColors": {"bg": "", "fill": ""},
+                    "preview": {
+                        "links": [
+                            {"href": "https://github.com/odeat/cybercity", "tooltipString": "see_on_github", "faIcon": "fa-brands fa-github"},
+                            {"href": "https://odeat.github.io/cybercity/", "tooltipString": "open_website", "faIcon": "fa-solid fa-link"}
+                        ],
+                        "screenshots": [
+                            "images/pictures/screenshot-demo1-cybercity.png",
+                            "images/pictures/screenshot-demo2-cybercity.png",
+                             "images/pictures/screenshot-demo3-cybercity.png"
+                        ]
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "Cyber City",
+                            "text": "A <b>generative visual experiment</b> built with p5.js, where multiple colorful snakes move across the canvas, leaving <b>dynamic</b> trails of rectangles. Each snake changes direction over time and fades as its rectangles expire, creating an <b>ever-evolving pattern</b> of motion and decay.",
+                            "tags": ["Javascript", "Creative Coding", "Dynamic Patterns"]
+                        },
+                        "tr": {
+                            "text": "p5.js ile yapılmış <b>üretken bir görsel deney</b>. Renkli yılanlar tuval üzerinde hareket ederken arkalarında <b>dinamik</b> dikdörtgen izler bırakır. Her yılan zamanla yön değiştirir ve dikdörtgenler yok oldukça kaybolur, böylece <b>sürekli değişen bir desen</b> oluşur.",
+                            "tags": ["Javascript", "Yaratıcı Kodlama", "Dinamik Desenler"]
+                        },
+                        "nl": {
+                            "text": "Een <b>generatief visueel experiment</b> gemaakt met p5.js, waarin meerdere kleurrijke slangen over het canvas bewegen en <b>dynamische</b> sporen van rechthoeken achterlaten. Elke slang verandert van richting na verloop van tijd en vervaagt wanneer de rechthoeken verdwijnen, wat zorgt voor een <b>voortdurend veranderend patroon</b> van beweging en verval.",
+                            "tags": ["Javascript", "Creatief coderen", "Dynamische patronen"]
+                        }
+                    }
+                },
+                {
+                    "id": 2,
                     "categoryId": "category_utilities",
                     "img": "images/pictures/portfolio-project-logo-showYourFace.png",
                     "faIcon": "",
