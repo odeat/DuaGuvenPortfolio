@@ -224,6 +224,38 @@
                 },
                 {
                     "id": 2,
+                    "categoryId": "category_web",
+                    "img": "images/pictures/portfolio-project-logo-breakout.png",
+                    "faIcon": "",
+                    "faIconColors": {"bg": "", "fill": ""},
+                    "preview": {
+                        "links": [
+                            {"href": "https://github.com/odeat/breakout", "tooltipString": "see_on_github", "faIcon": "fa-brands fa-github"},
+                            {"href": "https://odeat.github.io/breakout/", "tooltipString": "open_website", "faIcon": "fa-solid fa-link"}
+                        ],
+                        "screenshots": [
+                            "images/pictures/screenshot-demo1-breakout.png",
+                            "images/pictures/screenshot-demo2-breakout.png"
+                        ]
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "Breakout Clone",
+                            "text": "A <b>Breakout-style arcade game</b> built with Processing, featuring <randomized bonus tiles that can spawn extra balls, <b>score tracking</b>, and <b>procedurally generated levels</b>. Press <b>spacebar</b> to launch a new ball when needed.",
+                            "tags": ["Java", "Processing", "Game Development"]
+                        },
+                        "tr": {
+                            "text": "Een <b>Breakout-achtig arcadespel</b> gebouwd met Processing, met <b>willekeurige bonustegels</b> die extra ballen kunnen genereren, <b>scoretracking</b> en <b>procedureel gegenereerde levels</b>. Druk op de <b>spatiebalk</b> om een nieuwe bal te lanceren wanneer nodig.",
+                            "tags": ["Java", "Processing", "Oyun Geliştirme"]
+                        },
+                        "nl": {
+                            "text": "Processing ile oluşturulmuş bir <b>Breakout tarzı arcade oyunu</b>; <b>rastgele bonus blokları</b> ekstra toplar oluşturabilir, <b>puan takibi</b> ve <b>prosedürel olarak üretilen seviyeler</b> içerir. Yeni bir top başlatmak için <b>boşluk tuşuna</b> basabilirsiniz.",
+                            "tags": ["Java", "Processing", "Game-ontwikkeling"]
+                        }
+                    }
+                },
+                {
+                    "id": 2,
                     "categoryId": "category_utilities",
                     "img": "images/pictures/portfolio-project-logo-showYourFace.png",
                     "faIcon": "",
