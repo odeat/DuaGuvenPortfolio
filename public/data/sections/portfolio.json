@@ -176,16 +176,16 @@
                     "locales": {
                         "en": {
                             "title": "Growing Flowers",
-                            "text": "An <b>interactive</b>, curiosity-driven experience built with p5.js and Matter.js, featuring <b>movable boxes</b>, personal secrets, sound, and multimedia storytelling.",
-                            "tags": ["JavaScript", "Matter.js", "UI Design"]
+                            "text": "A playful creative coding project built with p5.js, where a <b>watering can</b> follows the cursor and releases droplets on click. <b>Flowers</b> on the ground grow when watered, and once fully bloomed, they <b>burst into new seeds</b>, creating an ever-growing garden of blossoms.",
+                            "tags": ["JavaScript", "UI Interaction", "Generative Art"]
                         },
                         "tr": {
-                            "text": "p5.js ve Matter.js ile oluşturulmuş <b>etkileşimli</b>, merak uyandıran bir deneyim; <b>hareket ettirilebilir kutular</b>, kişisel sırlar, ses ve multimedya hikaye anlatımı içerir.",
-                            "tags": ["JavaScript", "Matter.js", "UI Design"]
+                            "text": "p5.js ile yapılmış eğlenceli bir yaratıcı kodlama projesi. İmleci takip eden bir <b>sulama kabı</b>, tıklayınca su damlaları döker. Yerdeki <b>çiçekler</b> sulandıkça büyür ve tam açtıklarında <b>yeni tohumlara patlarlar</b>, böylece sürekli büyüyen bir bahçe oluşur.",
+                            "tags": ["JavaScript", "Kullanıcı Arayüzü Etkileşimi", "Üretici Sanat"]
                         },
                         "nl": {
-                            "text": "Een <b>interactieve</b>, nieuwsgierigheid-opwekkende ervaring gebouwd met p5.js en Matter.js, met <b>verplaatsbare dozen</b>, persoonlijke geheimen, geluid en multimediale storytelling.",
-                            "tags": ["JavaScript", "E-Matter.js", " Arayüz Tasarımı"]
+                            "text": "Een speels creatief codeerproject gemaakt met p5.js, waarbij een <b>gieter</b> de cursor volgt en druppels laat vallen bij het klikken. <b>Bloemen</b> op de grond groeien wanneer ze water krijgen, en zodra ze volledig zijn opgebloeid, <b>barsten ze open in nieuwe zaadjes</b> en ontstaat er een voortdurend groeiende tuin vol bloesem.",
+                            "tags": ["JavaScript", "UI-interactie", "Generatieve kunst"]
                         }
                     }
                 }
