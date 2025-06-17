@@ -234,8 +234,7 @@
                             {"href": "https://odeat.github.io/breakout/", "tooltipString": "open_website", "faIcon": "fa-solid fa-link"}
                         ],
                         "screenshots": [
-                            "images/pictures/screenshot-demo1-breakout.png",
-                            "images/pictures/screenshot-demo2-breakout.png"
+                            "images/pictures/screenshot-demo-breakout.png"
                         ]
                     },
                     "locales": {
@@ -245,12 +244,45 @@
                             "tags": ["Java", "Processing", "Game Development"]
                         },
                         "tr": {
-                            "text": "Een <b>Breakout-achtig arcadespel</b> gebouwd met Processing, met <b>willekeurige bonustegels</b> die extra ballen kunnen genereren, <b>scoretracking</b> en <b>procedureel gegenereerde levels</b>. Druk op de <b>spatiebalk</b> om een nieuwe bal te lanceren wanneer nodig.",
+                            "text": "Processing ile oluşturulmuş bir <b>Breakout tarzı arcade oyunu</b>; <b>rastgele bonus blokları</b> ekstra toplar oluşturabilir, <b>puan takibi</b> ve <b>prosedürel olarak üretilen seviyeler</b> içerir. Yeni bir top başlatmak için <b>boşluk tuşuna</b> basabilirsiniz.",
                             "tags": ["Java", "Processing", "Oyun Geliştirme"]
                         },
                         "nl": {
-                            "text": "Processing ile oluşturulmuş bir <b>Breakout tarzı arcade oyunu</b>; <b>rastgele bonus blokları</b> ekstra toplar oluşturabilir, <b>puan takibi</b> ve <b>prosedürel olarak üretilen seviyeler</b> içerir. Yeni bir top başlatmak için <b>boşluk tuşuna</b> basabilirsiniz.",
+                            "text": "Een <b>Breakout-achtig arcadespel</b> gebouwd met Processing, met <b>willekeurige bonustegels</b> die extra ballen kunnen genereren, <b>scoretracking</b> en <b>procedureel gegenereerde levels</b>. Druk op de <b>spatiebalk</b> om een nieuwe bal te lanceren wanneer nodig.",
                             "tags": ["Java", "Processing", "Game-ontwikkeling"]
+                        }
+                    }
+                },
+                {
+                    "id": 2,
+                    "categoryId": "category_web",
+                    "img": "images/pictures/portfolio-project-logo-whackamole.png",
+                    "faIcon": "",
+                    "faIconColors": {"bg": "", "fill": ""},
+                    "preview": {
+                        "links": [
+                            {"href": "https://github.com/odeat/sketch_whack_a_mole", "tooltipString": "see_on_github", "faIcon": "fa-brands fa-github"},
+                            {"href": "https://odeat.github.io/sketch_whack_a_mole/", "tooltipString": "open_website", "faIcon": "fa-solid fa-link"}
+                        ],
+                        "screenshots": [
+                            "images/pictures/screenshot-demo1-whackamole.png",
+                            "images/pictures/screenshot-demo2-whackamole.png",
+                            "images/pictures/screenshot-demo3-whackamole.png"
+                        ]
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "Whack-A-Mole",
+                            "text": "<b>Whack-A-Mole style game</b> made in Processing, featuring <b>animated moles</b>, humorous sound effects, <b>real-time score tracking</b>, and a reactive hammer swing.",
+                            "tags": ["Java", "Processing", "2D Graphics"]
+                        },
+                        "tr": {
+                            "text": "Processing ile yapılmış <b>Whack-A-Mole tarzı oyun</b>; <b>animasyonlu köstebekler</b>, eğlenceli ses efektleri, <b>gerçek zamanlı skor takibi</b> ve tepkisel bir çekiç hareketi içerir.",
+                            "tags": ["Java", "Processing", "Reflekse dayalı"]
+                        },
+                        "nl": {
+                            "text": "<b>Whack-A-Mole-stijl spel</b> gemaakt in Processing, met <b>geanimeerde mollen</b>, grappige geluidseffecten, <b>live score bijhouden</b> en een reagerende hamerbeweging.",
+                            "tags": ["Java", "Processing", "Reflex-gebaseerd"]
                         }
                     }
                 },
