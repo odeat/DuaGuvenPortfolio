@@ -188,6 +188,42 @@
                             "tags": ["JavaScript", "UI-interactie", "Generatieve kunst"]
                         }
                     }
+                },
+                {
+                    "id": 2,
+                    "categoryId": "category_utilities",
+                    "img": "images/pictures/portfolio-project-logo-showYourFace.png",
+                    "faIcon": "",
+                    "faIconColors": {"bg": "", "fill": ""},
+                    "preview": {
+                        "links": [
+                            {"href": "https://www.figma.com/design/yhHyUnqe2qX671Md4yclyU/Show-your-face--Dua-G%C3%BCven-?m=auto&t=AMD9zag3WC0WseRV-1", "tooltipString": "open_website", "faIcon": "fa-brands fa-figma"}
+                        ],
+                        "screenshots": [
+                            "images/pictures/screenshot-demo1-showYourFace.png",
+                            "images/pictures/screenshot-demo2-showYourFace.png",
+                            "images/pictures/screenshot-demo3-showYourFace.png",
+                            "images/pictures/screenshot-demo4-showYourFace.png",
+                            "images/pictures/screenshot-demo5-showYourFace.png",
+                            "images/pictures/screenshot-demo6-showYourFace.png"
+                        ],
+                        "screenshotsAspectRatio": "16:9"
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "Show Your Face",
+                            "text": "An interactive UI project built for a typography course within the <b>Visual Interface Design</b> minor. Focused on Apple’s <b>San Francisco</b> typeface, this project explores its history, origins, and <b>typographic variations</b> such as bold, thin, regular, and italic.",
+                            "tags": ["Typography", "Visual Interface Design", "Interaction"]
+                        },
+                        "tr": {
+                            "text": "<b>Visual Interface Design</b> yan dalında tipografi dersi için hazırlanmış etkileşimli bir UI projesi. Bu proje, Apple’ın <b>San Francisco</b> yazı tipine odaklanır ve tarihini, kökenini ve <b>tipografik varyasyonlarını</b> — bold, thin, regular, italic — keşfeder.",
+                            "tags": ["Tipografi", "Görsel Arayüz Tasarımı", "Etkileşim"]
+                        },
+                        "nl": {
+                            "text": "Een interactieve UI gemaakt voor het vak typografie binnen de minor <b>Visual Interface Design</b>. Dit project richt zich op het <b>San Francisco</b>-lettertype van Apple en onderzoekt de geschiedenis, oorsprong en <b>typografische varianten</b> zoals bold, thin, regular en italic.",
+                            "tags": ["Typografie", "Visueel Interfaceontwerp", "Interactie"]
+                        }
+                    }
                 }
             ]
         }
