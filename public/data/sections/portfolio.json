@@ -288,6 +288,40 @@
                 },
                 {
                     "id": 2,
+                    "categoryId": "category_web",
+                    "img": "images/pictures/portfolio-project-logo-clickncolor.png",
+                    "faIcon": "",
+                    "faIconColors": {"bg": "", "fill": ""},
+                    "preview": {
+                        "links": [
+                            {"href": "https://github.com/odeat/Click-n-Color", "tooltipString": "see_on_github", "faIcon": "fa-brands fa-github"},
+                            {"href": "https://odeat.github.io/Click-n-Color/", "tooltipString": "open_website", "faIcon": "fa-solid fa-link"}
+                        ],
+                        "screenshots": [
+                            "images/pictures/screenshot-demo1-clickncolor.png",
+                            "images/pictures/screenshot-demo2-clickncolor.png",
+                            "images/pictures/screenshot-demo3-clickncolor.png"
+                        ],
+                        "screenshotsAspectRatio": "16:9"
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "Click-n-Color",
+                            "text": "<b>Click-n-Draw</b> is a playful <b>drawing tool</b> made with p5.js, where every click bursts with color. Use <b>right-click</b> to erase in real-time and press <b>Backspace</b> to start fresh. Simple, fun, and perfect for unleashing your creativity.",
+                            "tags": ["Java", "Processing", "Realtime Drawing"]
+                        },
+                        "tr": {
+                            "text": "<b>Click-n-Draw</b>, p5.js ile yapılmış eğlenceli bir <b>çizim aracı</b>dır; her tıklama renkli bir patlamaya dönüşür. <b>Sağ tıklama</b> ile anında silebilir, <b>Backspace</b> tuşuyla tuvali sıfırlayabilirsin. Basit, keyifli ve yaratıcılığını özgürce ifade etmen için birebir.",
+                            "tags": ["Java", "Processing", "Gerçek zamanlı çizim"]
+                        },
+                        "nl": {
+                            "text": "<b>Click-n-Draw</b> is een speelse <b>tekentool</b> gebouwd met p5.js, waarin elke klik een kleurrijke uitbarsting creëert. Gebruik <b>rechtermuisklik</b> om direct te gummen en druk op <b>Backspace</b> om opnieuw te beginnen. Simpel, leuk en ideaal om je creativiteit los te laten.",
+                            "tags": ["Java", "Processing", "Realtime tekenen"]
+                        }
+                    }
+                },
+                {
+                    "id": 2,
                     "categoryId": "category_utilities",
                     "img": "images/pictures/portfolio-project-logo-showYourFace.png",
                     "faIcon": "",
