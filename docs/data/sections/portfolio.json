@@ -123,6 +123,40 @@
                     }
                 },
                 {
+                    "id": 2,
+                    "categoryId": "category_web",
+                    "img": "images/pictures/portfolio-project-logo-MP3_Player.png",
+                    "faIcon": "",
+                    "faIconColors": {"bg": "", "fill": ""},
+                    "preview": {
+                        "links": [
+                            {"href": "https://github.com/odeat/mp3player", "tooltipString": "see_on_github", "faIcon": "fa-brands fa-github"},
+                            {"href": "https://odeat.github.io/mp3player/", "tooltipString": "open_website", "faIcon": "fa-solid fa-link"}
+                        ],
+                        "screenshots": [
+                            "images/pictures/screenshot-demo1-MP3_Player.png",
+                            "images/pictures/screenshot-demo2-MP3_Player.png",
+                            "images/pictures/screenshot-demo3-MP3_Player.png",
+                            "images/pictures/screenshot-demo4-MP3_Player.png"
+                        ]
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "MP3 Player",
+                            "text": "This project is a <b>music player</b> where you can play, pause and skip through my favorite K-pop tracks — complete with a <b>dynamic album cover</b>, <b>animated progress bar</b> and <b>song info</b>.",
+                            "tags": ["JavaScript", "HTML/CSS", "DOM Manipulation"]
+                        },
+                        "tr": {
+                            "text": "Bu proje, favori K-pop şarkılarımı çalabileceğin, duraklatabileceğin ve atlayabileceğin bir <b>müzik oynatıcıdır</b> — içerisinde <b>dinamik albüm kapağı</b>, <b>hareketli ilerleme çubuğu</b> ve <b>şarkı bilgileri</b> ile birlikte gelir.",
+                            "tags": ["JavaScript", "HTML/CSS", "DOM Manipülasyonu"]
+                        },
+                        "nl": {
+                            "text": "Dit project is een <b>muziekspeler</b> waarin je mijn favoriete K-pop tracks kunt afspelen, pauzeren en skippen — compleet met een <b>dynamische album cover</b>, <b>bewegende progressbar</b> en <b>songinformatie</b>.",
+                            "tags": ["JavaScript", "HTML/CSS", "DOM-manipulatie"]
+                        }
+                    }
+                },
+                {
                     "id": 3,
                     "categoryId": "category_web",
                     "img": "images/pictures/portfolio-project-logo-visuallyPleasing.png", 
