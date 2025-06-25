@@ -323,7 +323,7 @@
                 {
                     "id": 2,
                     "categoryId": "category_web",
-                    "img": "images/pictures/portfolio-project-logo-clickncolor.png",
+                    "img": "images/pictures/portfolio-project-logo-clickncolor1.png",
                     "faIcon": "",
                     "faIconColors": {"bg": "", "fill": ""},
                     "preview": {
@@ -332,9 +332,11 @@
                             {"href": "https://odeat.github.io/Click-n-Color/", "tooltipString": "open_website", "faIcon": "fa-solid fa-link"}
                         ],
                         "screenshots": [
+                            "images/pictures/screenshot-demo4-clickncolor.png",
                             "images/pictures/screenshot-demo1-clickncolor.png",
                             "images/pictures/screenshot-demo2-clickncolor.png",
                             "images/pictures/screenshot-demo3-clickncolor.png"
+                            
                         ],
                         "screenshotsAspectRatio": "16:9"
                     },
