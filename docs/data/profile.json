@@ -4,7 +4,7 @@
     "profilePictureUrl": "images/pictures/Dua_transparent_background.png",
     "resumePdfUrl": "",
 
-    "statusCircleVisible": true,
+    "statusCircleVisible": false,
     "statusCircleVariant": "available",
     "statusCircleHoverMessage": "status_message_available_for_freelance",
 
