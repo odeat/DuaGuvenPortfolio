@@ -21,7 +21,6 @@
             }
         }
     },
-
     "articles": [
         {
             "id": 1,
@@ -35,7 +34,7 @@
                 {
                     "id": 1,
                     "img": "",
-                    "faIcon": "fa-solid fa-window-maximize",
+                    "faIcon": "fa-solid fa-arrow-pointer",
                     "faIconColors": {
                         "bg": "",
                         "fill": ""
@@ -220,7 +219,6 @@
                 }
             ]
         },
-
         {
             "id": 2,
             "component": "ArticleSkills",
@@ -468,7 +466,6 @@
                 }
             ]
         },
-
         {
             "id": 3,
             "component": "ArticleSkills",
@@ -748,4 +745,4 @@
             ]
         }
     ]
-}`
+}
